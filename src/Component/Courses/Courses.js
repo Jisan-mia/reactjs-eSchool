@@ -51,7 +51,7 @@ const Courses = () => {
 						Top Courses in <span className="course-topic">Data Science </span>
 					</h2>
 					<div className="course-main-div">
-						{allDatas[2].map((dataScience) => (
+						{allDatas[3].map((dataScience) => (
 							<Course course={dataScience}></Course>
 						))}
 					</div>
@@ -59,18 +59,8 @@ const Courses = () => {
 
 				<div className="aws-course-main main">
 					<h2>
-						Top Courses in <span className="course-topic">Data Science </span>
-					</h2>
-					<div className="course-main-div">
-						{allDatas[3].map((awsCourse) => (
-							<Course course={awsCourse}></Course>
-						))}
-					</div>
-				</div>
-
-				<div className="aws-course-main main">
-					<h2>
-						Top Courses in <span className="course-topic">Data Science </span>
+						Top Courses in{" "}
+						<span className="course-topic">AWS Certification </span>
 					</h2>
 					<div className="course-main-div">
 						{allDatas[4].map((awsCourse) => (
