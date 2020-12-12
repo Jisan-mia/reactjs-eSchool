@@ -1,0 +1,1945 @@
+[
+  {
+    "_class": "course",
+    "id": 874012,
+    "title": "The Ultimate Drawing Course - Beginner to Advanced",
+    "url": "/course/the-ultimate-drawing-course-beginner-to-advanced/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Jaysen Batchelor",
+        "url": "/user/jaysen-batchelor/",
+        "_class": "user",
+        "initials": "JB",
+        "job_title": "Illustrator & Designer",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/17082766_0590_7.jpg?SV_AAmmDl4r86yUscb_fD6eB9q7AbY_luMP5ntRmf6IkCwl9l4dQXIsk3D0c1ytzxG9wdE_4FT3k4wldfri8PwZT8d6S-XokDOSbXUYY_oouUrJJHZlNuoHsgxuVpj8",
+        "name": "Jaysen",
+        "id": 17082766,
+        "title": "Jaysen Batchelor",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/17082766_0590_7.jpg?DdAqqmM_cdJ-4v1XDTJYG9kHEHsfr164Ua0puPdeN0E663XlwSJwQGQg0BG3PXWDL3Km7s7HWf-08VAKifVjYnxOB-xy6YwIWa8S5zinzw7HQnm13ZYeSCFzM40H"
+      },
+      {
+        "display_name": "Quinton Batchelor",
+        "url": "/user/quinton-batchelor-2/",
+        "_class": "user",
+        "initials": "QB",
+        "job_title": "Photographer",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/32143518_ff3d_3.jpg?P9A8agRz8GEM63Yt7ko5fB-oNU-38rjDXoavCcM3xyt88oiWuemcoju9ZFbZ2G8r7eGZGCtOsOSnzxJQi2hSlI9BRSoAId4YH2IxErKQ91kVA3k6qRnZlKIHfwp_27Y",
+        "name": "Quinton",
+        "id": 32143518,
+        "title": "Quinton Batchelor",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/32143518_ff3d_3.jpg?Pb8wh9mUZ8Vj9VluIzH3zDdeD3YXAU3KpQorZwihA8d6k-doleyYFEx5dDFt9hc5i8UdSURMvvMrPpgnUDhoKHynn1MTVYly01gNJi4UHcUc4p40ua0mFnFF-kuV"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/874012_c7f2_3.jpg?secure=b-Uv_elS0tbN7Na8BSlxMA%3D%3D%2C1607421803",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/874012_c7f2_3.jpg?e3cxvmuFeGOlHgmY5hSGBN7KlBH8sKVT_63h4hcX32LPCY9S0ZdOzTGUbm8pu053v5pdOf9Z7bONbYli3sq2u4j50VVBWt4upqb9QqeQVT8-SVB6WbZ0NGV5Pg2kQls",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/874012_c7f2_3.jpg?LsG0HbXc_XkYrzQPcDdn_O6ePGT9wMFIfgIyzkN5166nxMsgx98T7dGATb3Fcg7UYiFNQh0rRTjkKnkwZWYRgeYGArmeQdi9wzDawnnwTGUkQJ7Nos5sTo5TJufeB1E",
+    "published_title": "the-ultimate-drawing-course-beginner-to-advanced",
+    "tracking_id": "tnKgzh7PQKSOSdDkXjwVQQ",
+    "headline": "Learn the #1 most important building block of all art",
+    "num_subscribers": 415771,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "ja_JP",
+        "title": "日本語",
+        "english_title": "Japanese"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "tr_TR",
+        "title": "Türkçe",
+        "english_title": "Turkish"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      }
+    ],
+    "avg_rating": 4.55268,
+    "avg_rating_recent": 4.55009,
+    "rating": 4.55009,
+    "num_reviews": 101459,
+    "is_wishlisted": false,
+    "num_published_lectures": 63,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/874012_c7f2_3.jpg?2HlkN6Ij8Lj3l2PnZpOb7C0lykV5K1amMQ_oUoa2oHjaFRdWVjDrYN6ttasHcgUHzLHBr3Ej7iUHx8tMVRg-qGcRjoB5s80cei5mtyUD8XvyR0Mxj61HMUJaS8c3",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/874012_c7f2_3.jpg?dMArWFlbf-269gIlSACc_n1j8J3RsyR_rmDHY-Uys5D9w-UK2YgQ-y60qRDSYwvjDGZAQbWyed337pymTNHjoSnOnytGaJQkZXN4aDDm2yQFbJq73Py44ugjzLXtVDQ",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/874012_c7f2_3.jpg?U0TBEh2ir8bhLiRiH1EkHIgUPxhoHBG-tpqsLKJP0nJyVAXqqUb-ip4VZLyvqs-ro9ZpodedmHjDbrYZ0dlVc1qVnfz_FmrT5zD048RVjpV6F-6ejqJSqY7zX-kOWhs",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/874012_c7f2_3.jpg?secure=BSN9-TskKZRyvsNKBYsjSQ%3D%3D%2C1607421803",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Japanese [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]",
+      "Turkish [Auto]"
+    ],
+    "created": "2016-06-10T01:26:59Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-01-23T00:20:05Z",
+    "objectives_summary": [
+      "Draw objects out of your head",
+      "Draw realistic light and shadow",
+      "Understand the fundamentals of art"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2019-01-07",
+    "preview_url": "/course/874012/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "11 total hours",
+    "content_info_short": "11 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/design/",
+          "id": 269,
+          "title": "Design",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Drawing",
+          "url": "/topic/drawing/",
+          "tracking_object_type": "cl",
+          "id": 5494,
+          "title": "Drawing",
+          "topic_channel_url": "/topic/drawing/"
+        }
+      },
+      "id": "f3d29dc2d5a44c3b9a3638f8882f2ef4",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "f3d29dc2d5a44c3b9a3638f8882f2ef4",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/design/",
+            "id": 269,
+            "title": "Design",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Drawing",
+            "url": "/topic/drawing/",
+            "tracking_object_type": "cl",
+            "id": 5494,
+            "title": "Drawing",
+            "topic_channel_url": "/topic/drawing/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/design/",
+        "id": 269,
+        "title": "Design",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1259404,
+    "title": "Character Art School: Complete Character Drawing Course",
+    "url": "/course/character-art-school-complete-character-drawing/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Scott Harris",
+        "url": "/user/54722fd1cda5b/",
+        "_class": "user",
+        "initials": "SH",
+        "job_title": "Art Director, DAS: School of Art and Design",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9055848_0316_9.jpg?t6D1rLI-JujA01aTb7w0kGJyMwJ6x9Mdv27iVXEUXot9T8juynz0-4Nqv4zE8VTiq7pthbPMHHR43BdPWkReWvaJDEUTzy02AloOpjv7x5_-b8vf_Pd7xYRdpJm2SQ",
+        "name": "Scott",
+        "id": 9055848,
+        "title": "Scott Harris",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/9055848_0316_9.jpg?secure=DCNdceK1G8TBDU0-_ASMlA%3D%3D%2C1607421802"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1259404_72d4_7.jpg?WsBjsAgOgsGj6CzpGHcKj8AGO4CUNGMWk9khhRUDHSlENFMni-A5yDMVR57sY_utQrYTayVpGS-Hpph2Qst_fu9VDQmuDQCuBQ0bNJGB4wwHPQI_H-jbKUGKqFUnqQ",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1259404_72d4_7.jpg?E7Od7RcOkDdmWnB0PQwsNw8HagmXn3UxV-LELP-tINvIK7B-Vw6kfu99pVacyOIJ5mXI1urQGUaO5FVn-FhoRVlQiXnyB6--oS2SVNTgoCO3_iCkHZalDQth2x6z1pyy",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1259404_72d4_7.jpg?S7dtzCHf9YK1Fz4Gs6srm3itFmR6mgbs2GjQKT1Jx4zIhBMA2RL1ywFZnF_6F8Ftz-IE-UKiZbfZBDXGIbr1Fk6fMhjiIG2D4yYyUZR87ZSavwesWn6N4UjMWg_JSn_2",
+    "published_title": "character-art-school-complete-character-drawing",
+    "tracking_id": "9OzRtBkfSxO125IF8BtqdQ",
+    "headline": "Learn How to Draw People and Character Designs Professionally, Drawing for Animation, Comics, Cartoons, Games and More!",
+    "num_subscribers": 238497,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.52994,
+    "avg_rating_recent": 4.5277,
+    "rating": 4.5277,
+    "num_reviews": 53046,
+    "is_wishlisted": false,
+    "num_published_lectures": 115,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1259404_72d4_7.jpg?N4WoO-rPtydRljJwzptmlBfaulDGvETy_kmqoLXKkfRj8CrSZdrRlQEeMRM_IYLdRf0OpMLZlw7GiMtFwcgr0bte9DcaOnCdfNIVPKj9P_lLp_sI87krHWJ9nZtBRQ",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1259404_72d4_7.jpg?9FkWS2j3ZvABJyuYiDvPgIVzmapK3aISn3epEOQZtkTjsa0Alum-faI4VaceUpiiSMd1rryUuSXBca_QdQKGF8hfufEIDSYdM-N79EmndJhcdvTo42HwJMmYrFRRcKsz",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1259404_72d4_7.jpg?bvFzpd3HvYjzDmo4s8m4R2FAmlqJOC4co3f3u4lzXPH6BQycwZEHMYfkUOfNoARG6tee3T-aJz4eOuLGlTo7yQnlDjlZUxRShrZbf-vL-rN7fd-F2Kate0WF2HlvJTOr",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1259404_72d4_7.jpg?9lRuOCs9ECD2IznXY_IH8SWUQ1zAGVLRbxvTEp8pjBYRKe8AaCGcMzBZWIn8LkdAYQIJp0eRH8wkWE_kJOR1ACGwPRKCVaDoqETvEMw23VRru7SlqJ3OvhII0ql2mbaS",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese",
+      "Romanian [Auto]",
+      "Spanish"
+    ],
+    "created": "2017-06-19T07:44:09Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-06-20T18:55:31Z",
+    "objectives_summary": [
+      "How to Draw Characters Well",
+      "How to Draw Out of Your Head Fast",
+      "How to Draw in 3D"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-11-03",
+    "preview_url": "/course/1259404/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "26.5 total hours",
+    "content_info_short": "26.5 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/design/",
+        "id": 269,
+        "title": "Design",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1045092,
+    "title": "The Art & Science of Drawing / BASIC SKILLS",
+    "url": "/course/the-art-and-science-of-drawing/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Brent Eviston",
+        "url": "/user/brent-eviston/",
+        "_class": "user",
+        "initials": "BE",
+        "job_title": "Artist and Instructor",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/27988174_e5c2.jpg?secure=q1KqLuutLiGoz3vyALLxyA%3D%3D%2C1607421803",
+        "name": "Brent",
+        "id": 27988174,
+        "title": "Brent Eviston",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27988174_e5c2.jpg?K_ieu9oPYq0TNQ91vCF0i-Sjpna2jSdffTMTEJ6pKdORuyPDHliXoHQ2AVorYeUrxU6NcWMWaJ69AB9HC_WJPkSSXbKRgcmbdCGjbYfN2ksofBda13dFAzrIpQ"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1045092_8c2f_2.jpg?bD_MVVrZAhWa2ABF2Nd6nZAy5-mjysIDc-jhAKC084BWZiKsI5PvUh00TpjOyXMuSORQfv7W8tplCcJs_YnWn_-agD9mx0Suda7LhHry9muWXpfjO7GepV0MDzK-gQ",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1045092_8c2f_2.jpg?qK4WF44hHj8FYEe6VkIu-oKqJsUJ99TMmNbb-Wf0sTaRIpDObHQq4zYbkgKK8Zrd4gTf7PXSG3ZRWIMjdxgYzy5xXsEMDX8cXV-u1UEYUxeEwj5dsEJw21O-Fy5tI5Ht",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1045092_8c2f_2.jpg?HvKtuiY4YgDzn5PjkoTzE2Z5M-nFrKwWZHL1q4s4qP_iDE_3GLEtUdcJgyV1YA7emrHS07wg98jdsLedAnu4GbjIlyOPX_GjNgGCs7TONwGC8IO49kdWHy6tDjszvipw",
+    "published_title": "the-art-and-science-of-drawing",
+    "tracking_id": "SjiRICVERsOYCLl-fgzrsg",
+    "headline": "Drawing is not a talent. It's a skill anyone can learn.",
+    "num_subscribers": 48317,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.66142,
+    "avg_rating_recent": 4.6728,
+    "rating": 4.6728,
+    "num_reviews": 8609,
+    "is_wishlisted": false,
+    "num_published_lectures": 17,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/1045092_8c2f_2.jpg?secure=i2h5eiArfLNyad275jxTbg%3D%3D%2C1607421803",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1045092_8c2f_2.jpg?XWrSzWpZAwyz5Ns6NvZl5nmW8iQZcuqLWcWnTfSAhH6Y1TguBz9b3ARbXteNVBoMVvZ4lADcE_bwCFM8_mUDg5giivcMwo-N57Ui28ae3bmENohAfDX7elfh6ntKL_7O",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1045092_8c2f_2.jpg?n4qnmBicAjvYfiWNEfV8uDd-y4dGJd6daua-wFSXwQ0T5c676lXKohWGDSz-8d5BA7fCW3rvYOJ9iwZn-PzqjD5klZAeYGMrqBKUUMHciG87tunmuuWEVqtuBuI_Gf3P",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1045092_8c2f_2.jpg?tyMcLODP_qBp5B_pYJ5XE0wqvwWG4ST1GFjkrfPOhi5WMDO9CNiqoJj1L4ANAfVncJ1_WijI4y7pMQ9vei9ZCdCYbZTDQhCQjMzljDnLAjxBJbVNv8bg8Ug6U8DbUVK5",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]"
+    ],
+    "created": "2016-12-18T20:03:53Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-01-11T15:12:51Z",
+    "objectives_summary": [
+      "How to draw any shape.",
+      "How to observe and analyze any subject.",
+      "How to draw any form by breaking it down into basic shapes before adding dark lines."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-03-23",
+    "preview_url": "/course/1045092/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "4.5 total hours",
+    "content_info_short": "4.5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/lifestyle/",
+          "tracking_object_type": "cat",
+          "title": "Lifestyle",
+          "id": 274
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Drawing",
+          "url": "/topic/drawing/",
+          "tracking_object_type": "cl",
+          "id": 5494,
+          "title": "Drawing",
+          "topic_channel_url": "/topic/drawing/"
+        }
+      },
+      "id": "1cf8814483d949d6b17f7b69de9d035b",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "1cf8814483d949d6b17f7b69de9d035b",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/lifestyle/",
+            "tracking_object_type": "cat",
+            "title": "Lifestyle",
+            "id": 274
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Drawing",
+            "url": "/topic/drawing/",
+            "tracking_object_type": "cl",
+            "id": 5494,
+            "title": "Drawing",
+            "topic_channel_url": "/topic/drawing/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/lifestyle/",
+        "tracking_object_type": "cat",
+        "title": "Lifestyle",
+        "id": 274
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 137230,
+    "title": "The Secrets to Drawing",
+    "url": "/course/the-secrets-to-drawing/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Matthew Fussell",
+        "url": "/user/matthewfussell/",
+        "_class": "user",
+        "initials": "MF",
+        "job_title": "Illustrator and Educator",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/955999_8541_2.jpg?ohYFpGHtZ2IqLKrO9bOBUQNlrjfxfxP3-LnS7dMdETNDgX5ABbXePFqQUmeXQ3aHq2f3xziHMUnXETdXzRX1rn9hKT5p38SeVyQiEJwBTWjcZKAtvA4Mx4tWDTIv",
+        "name": "Matthew",
+        "id": 955999,
+        "title": "Matthew Fussell",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/955999_8541_2.jpg?PNNXRANFLomvO9jkUk0Q3fojUDq3LsXgN7cwwztoX-lYFLpxvP2vwE8B0OyoTDqCHHGkDWNOJxY890Aa7BAjM7UlQzZO4_lJoOqvgrOUbR9JjkOeqO-R-0y6PA"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/137230_76b8_2.jpg?GoTyoh0lf9CZUHTh6a2807RshyuEvPzm1Yiyso-JWStXI-1kCDxQGDJ0grFgyb_uZ699VahQWWEUcx4zQ8EofXpvdxcDkPQby8oFqTJgh9AvTCi8YVFDcpMQdxNC",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/137230_76b8_2.jpg?zP46FDB2ioL8aXKLdOhCTemRI1qHUBaTGEQqsKZXUc6YQCOVb6EYCUUFj_N7wfPds47ar8iYA9u1bIhF1ZeVoV1gfMB-zPTd0vENnskFaPgaQx1Hku0ti2txQ3nuL68",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/137230_76b8_2.jpg?FPq_LCd-439VZ3UPLnofVhIvc75P_wHwm9febhqRKK9WnUZsz0HiJ-UT5BoeiDdCrVdXAI95lgfRCJgDoial9T3VPBTB8zH8cSUDsb9OCC1YkDWOJ5Jf6PcJnhnej50",
+    "published_title": "the-secrets-to-drawing",
+    "tracking_id": "glHm10rKQ32hVC0-qhSVhQ",
+    "headline": "A comprehensive video and ebook course designed for people wanting to learn the core concepts of drawing.",
+    "num_subscribers": 31939,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.34302,
+    "avg_rating_recent": 4.3832,
+    "rating": 4.3832,
+    "num_reviews": 3518,
+    "is_wishlisted": false,
+    "num_published_lectures": 28,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/137230_76b8_2.jpg?CwQ7iV2NaiH2L6LdN7Dj-aFBo3CfYT_PevOSv76foYShjsKCX4OUxW0uv4uDxpy_7QZPdAjIdujnUl-ZfBIF-HlgD3W5g4mWXasBuwtwIazKvXqz0i-voDy2N-iX",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/137230_76b8_2.jpg?RvKwytdWW6iexap9mOoMP9DC0X_1qHhsio0oYzmwMCbyehkzGOMWTG_sH4hXekaGtV5J_zACfN9FUaaS1A3ix03o9uzcyii5btrBTVAMY1kAr3nmm178FjU3kSI7lbc",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/137230_76b8_2.jpg?kN9RmUfTW3iPSSdyMXsZNNN8FAK8uPShIKF9CZEg1hzh52KY-hMJW-6PTTt9iPUzalGWB4UtmhCHhs-pGCR1LTR2NIV9KwvnqFH7fDM8UlW73wEsdX2b5UEm4FxtBTY",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/137230_76b8_2.jpg?u5DQlASeT4g6NiN4tx8Djb2XhTqNisEby_tw4xXcjMybDfcXp42b85IucttYgYGZx1Ev1wu2_lTp8P0BpGULU1WAumO6P9m6UxqmFNhEFwKeI6B9loyU69r0KKvitpo",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English"
+    ],
+    "created": "2013-12-23T20:04:23Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2014-02-07T16:25:51Z",
+    "objectives_summary": [
+      "By the end of this course, the student will have a strong understanding of the core concepts of drawing including materials, processes, and devices."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2014-01-24",
+    "preview_url": "/course/137230/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "5.5 total hours",
+    "content_info_short": "5.5 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/lifestyle/",
+        "tracking_object_type": "cat",
+        "title": "Lifestyle",
+        "id": 274
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 2234122,
+    "title": "How to Draw From Beginner to Master",
+    "url": "/course/how-to-draw-from-beginner-to-master/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Joseph Patric Daniels",
+        "url": "/user/joseph-partick-daniels/",
+        "_class": "user",
+        "initials": "JD",
+        "job_title": "Artist, Author, Teacher",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/47427252_da8d_3.jpg?c-wbf7LL1WisS6-M9YD2wZuurPvcJRy7XB4scNeckNr2U4Pu5vHfFl7f2Djs-ZG4xdGomF2GKUWWwDAH6oFyNAyKYM5yhDFKfUO8a63Hl5ZDJCPdrAOOmr2XdBb1BqM",
+        "name": "Joseph Patric",
+        "id": 47427252,
+        "title": "Joseph Patric Daniels",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/47427252_da8d_3.jpg?bn2852-qgfv2_KRtyg4rBG7MTUDFWdb5VpI_XQnwFZR8ftO7KM4xuOALaFnkVEhMXUjlzr4qXYemug7VEDT3w6ZKWNLJHBHSyPAQMEOEAuYZKL76p_9br1nqOQE8"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/2234122_68c5_8.jpg?yDg1oHwWxEYbJO5mRXfOdoSClEVbuZ8xcbH4m5lT0awAtGmIJTXtPm1MVUUtr6YxUc0RW3HtYA9FkKkyie5vkcDl6y_KD9fG32b-vSuMuzcwO4VP70AhR_2TqjurQA",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/2234122_68c5_8.jpg?QQqUt3FvIqCnT6Rs9-Yp8LHbYl9LS0UF3xKfNPq5QH0HqQulRpfvpzeDPtFCER6-3HzWX7EWkW5pGIehkBFh000kEtsNpQg5pVuHfh5LgcEUa0A3b2kGQoJnbCRJRjX-",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/2234122_68c5_8.jpg?FYyoI6337xohohUHipfWpD5TUww4iMF4-vIhBKweYrOuI-66F4nqu4Z9V86klOfMkju-aoh9eCJpKXlqXRsKRzmWPYiT5nboFWYFmpepcJeqKc7XjH1F98ye5CXjPhjI",
+    "published_title": "how-to-draw-from-beginner-to-master",
+    "tracking_id": "FIfeFC5tSY6ixMlxbNajAQ",
+    "headline": "Drawing and Shading From Fundamentals to Photorealism",
+    "num_subscribers": 25489,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.72425,
+    "avg_rating_recent": 4.72263,
+    "rating": 4.72263,
+    "num_reviews": 3618,
+    "is_wishlisted": false,
+    "num_published_lectures": 56,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/2234122_68c5_8.jpg?BEPRcIiqpwrEJ2Upok2LcDgcZ9o70lEjmeKSv0GQAisPl4aL9sdtGAMGvqKYUE7wuS744CAdlrgBwTf-IvTsi9WkPXX7mbOlVphiUbJGib8kujP4gpMFaoRUqGOrww",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/2234122_68c5_8.jpg?sjZ2eXCmFmZVGw8Z4cqoq9VaThd3Psuh1Ml_gdxMqPEyBqYeMgScEEg9VTnhWwROBOwfAypy03bQtp2Ua-Bq_oaKcqNrUTuG4OCw7TeDthg6SNBhl1ClhlfH9v6fJvxp",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/2234122_68c5_8.jpg?Of1oW2g2vlUxgKOobKtvUuJjahKl44cUjqYM3ZR3Uyw_QeeTp9UNPSMzv6JMuJOn1Qjp6AWeH0n2OBHNWXrnDKRWV4UEZYYntNaNp9E85zHQLxJmdjWXDDLLos0oIoNI",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/2234122_68c5_8.jpg?aU6FeuuujH0P6gG29DqERzxuFEOUYJwHBNEtbb4V_ATfIa8ggSX113-AG-VViceZf6M1Gx9ci3NFeui1xN4UMWj3S97oGjwum8Rfea5azzDY9hk2XEa8sfixxLADCr1f",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English"
+    ],
+    "created": "2019-02-22T05:16:59Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2019-02-28T23:58:04Z",
+    "objectives_summary": [
+      "You’ll learn the fundamentals of drawing",
+      "You’ll learn about materials Like the different pencil lead weights and what each one is best used for",
+      "Shading techniques"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-10-30",
+    "preview_url": "/course/2234122/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "8 total hours",
+    "content_info_short": "8 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/lifestyle/",
+          "id": 274,
+          "title": "Lifestyle",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Pencil Drawing",
+          "url": "/topic/pencil-drawing/",
+          "tracking_object_type": "cl",
+          "id": 7108,
+          "title": "Pencil Drawing",
+          "topic_channel_url": "/topic/pencil-drawing/"
+        }
+      },
+      "id": "eedffa77669240699648950b743d07ad",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "eedffa77669240699648950b743d07ad",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/lifestyle/",
+            "id": 274,
+            "title": "Lifestyle",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Pencil Drawing",
+            "url": "/topic/pencil-drawing/",
+            "tracking_object_type": "cl",
+            "id": 7108,
+            "title": "Pencil Drawing",
+            "topic_channel_url": "/topic/pencil-drawing/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/lifestyle/",
+        "id": 274,
+        "title": "Lifestyle",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Portraiture",
+        "url": "/topic/portraiture/",
+        "tracking_object_type": "cl",
+        "id": 7252,
+        "title": "Portraiture",
+        "topic_channel_url": "/topic/portraiture/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 2068907,
+    "title": "Environment Art School: Complete Perspective Drawing Course",
+    "url": "/course/perspective-art-school-environment-landscape-drawing-course/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Scott Harris",
+        "url": "/user/54722fd1cda5b/",
+        "_class": "user",
+        "initials": "SH",
+        "job_title": "Art Director, DAS: School of Art and Design",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/9055848_0316_9.jpg?secure=ihjkXLll9N_XRmF5oi3B9w%3D%3D%2C1607421802",
+        "name": "Scott",
+        "id": 9055848,
+        "title": "Scott Harris",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9055848_0316_9.jpg?D3VIcpr7AZKETbpveF42nlxifK9MpofHlxULlnhvFHg0OUiqLZCxHcmJL5WChQfL30OF0LeyR_U6cWiWpGjcf56NclSI_GQ15kk_oYn2AT9we16P4NIotj81fdE"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/2068907_8958.jpg?secure=69vEN2lgkfhEXI3phsb6yg%3D%3D%2C1607421802",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/2068907_8958.jpg?PrsDaQFrAVdj6MOlzuHL4LHVCaaPDYK0pm_I5_B6mKW4gQ0Bli8-zbEvuxIHrkGJFmC-x6vzoScdJe3OwIgQqGzu38YEo8TIfUNz2PJ8aOJsUHAOgf82N_nLU_8EpQ",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/2068907_8958.jpg?X3iGMuXg5ZmilZhuSTAdvPecQUL4RuoWzr15pKcKmte0Ao_zt0IjTdF6JUCTrCCrILKmLmoAk8R5sfuYMb3AV__13VFs9XMrzorerwtrSZfNYYkVrL0BHixHfXTbtw",
+    "published_title": "perspective-art-school-environment-landscape-drawing-course",
+    "tracking_id": "4t41mYUhSiK8tiZh-d-kNw",
+    "headline": "Learn How To Draw Landscapes, How to Draw Perspective, How to Draw Backgrounds and How to Draw Scenes and Create Worlds",
+    "num_subscribers": 21541,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.61614,
+    "avg_rating_recent": 4.61479,
+    "rating": 4.61479,
+    "num_reviews": 2597,
+    "is_wishlisted": false,
+    "num_published_lectures": 50,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/2068907_8958.jpg?secure=9dQB4qROb9KHNw_kARGjPw%3D%3D%2C1607421802",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/2068907_8958.jpg?jR6xninUrqxBFFXf9_CgHAidvzjVqYX7YALsZLmN-PazUKe49DYJ5fkLMBsm-RZzOLOpoMT2tR1nyP-wWuFLAByADl4FHtV7bmE55sVNLHD725s2opWfkNIVmrEV9A",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/2068907_8958.jpg?YlFlVDlV9gr9hZOWSF04i-ALAgNBNEf8xhqhAlunH3UwSiTti7xiLYsFf_dN59HyzrzjfZCbskWZgV8nOnwuTIqvih4hH3-QVEtwyZEi9aVLVW0Q6HFyTLX1WOO9xQ",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/2068907_8958.jpg?tfe3fqminQ1kihgM9tUlcCvPvtKpk_0i6PM2vRiSVTzy-8rshC29c04SUyn685kmbdAmBqZG__Ji_7ok4dpncJUhdxPrJY9HaDcrKu_WgAKg5VQJGFfECLDCKbfSxw",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Indonesian [Auto]"
+    ],
+    "created": "2018-12-05T10:40:58Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2018-12-07T00:46:40Z",
+    "objectives_summary": [
+      "How to Draw Landscape Drawings",
+      "How to Draw Environment Drawings",
+      "How to Draw Interior Scenes"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-11-03",
+    "preview_url": "/course/2068907/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "10 total hours",
+    "content_info_short": "10 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/design/",
+        "tracking_object_type": "cat",
+        "title": "Design",
+        "id": 269
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1325264,
+    "title": "Ultimate Guide to Digital Sketching: Beginner to Advanced",
+    "url": "/course/ultimate-guide-to-digital-sketching-beginner-to-advanced/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Austin Batchelor",
+        "url": "/user/austin-batchelor/",
+        "_class": "user",
+        "initials": "AB",
+        "job_title": "Concept Artist and Illustrator",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/21756796_4490_2.jpg?-k43pc5KBWIF5PFgBahG020zvnpYA_52sekCVbwQkS90kDSpRg3tzpfmu_ILgRZYeddBC1tyTMOnBdzhlOI2-1v25R33BvtWk52YpS2wj2NUgB8N1qlrRNMMafSyWgY",
+        "name": "Austin",
+        "id": 21756796,
+        "title": "Austin Batchelor",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/21756796_4490_2.jpg?eHetRHaiZC1Es9aKXQkIIwhghCj9KJjSiWnC-tJKSin1QKpMDXegI-C2sgV8rQ4SQ3NMUcDN1wdhnfvNUGrNH7721eNWO_5RdQFQI8cVFfC7tf2BVIR46bylhq_B"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1325264_6025_3.jpg?lv7HBAhAHoAW3YwTE2i6xBOV4iGhKuXt_4jqTdiTHfblgrH7ay-Slwf1UL6iljbQT7-ITvVh4iq8-8C1MLLgKsS9E_nAcn8FNrdqu2-2svSvjflrEDOpWrDmQNwSpw",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/1325264_6025_3.jpg?secure=y4RhD1j3s7SS9aXd0NMnMw%3D%3D%2C1607421802",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1325264_6025_3.jpg?TPjsSyv4y6DAZG9IH6SjLYWi7Z-LlgZ0WZ7uJNRH-KHpo9u9Qg7BKYeP52K9Pe9LWhIXNhE9h-Wv4JVcuxXLi27DKt28UJ7WGU4KlNcpLE5_rUFi9kpS64mIKxDJ12Mc",
+    "published_title": "ultimate-guide-to-digital-sketching-beginner-to-advanced",
+    "tracking_id": "dhkehrd4SYe3Naes3GqgHQ",
+    "headline": "Learn to digitally draw like a pro!",
+    "num_subscribers": 30087,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "th_TH",
+        "title": "ภาษาไทย",
+        "english_title": "Thai"
+      }
+    ],
+    "avg_rating": 4.54044,
+    "avg_rating_recent": 4.55448,
+    "rating": 4.55448,
+    "num_reviews": 2831,
+    "is_wishlisted": false,
+    "num_published_lectures": 42,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1325264_6025_3.jpg?LoAW5OFzMuA865mqWaUmQBNV2CDPP36FmVjr5jDejU_SBoWHepV2-KpKF2Z3rnHqroOG1Iq8znp_3yUI1EvtbAOGtSRL5DF6jDxrJtnqIDS2UbZBqOT3Lj0n0G8GqA",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1325264_6025_3.jpg?6C8CAcquo0c3lSi6Lg1tKFq8s9qLXx5GAjs2JmjT_Z8WUQTAkSM7GuEdN40D4hqxiSXXvRjP_nhvAbVn1NHYy_xgwVM7GeZ-ws6-VcbIVJB-Hp_-PsW-be7UmpA_ao24",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1325264_6025_3.jpg?h3Omq0gjnHlsE_4AlRmnhn_Lyb8eanIXPTbkwsHaisoeZg8Xov9OJoK5DoWfebrEObJUvWuKseV905hX28mUq4rvoG7Nf42uHOL-nkM0WxM03Bkl_iSY4vGJc1iy0oiW",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1325264_6025_3.jpg?lete-ddDWXIRKqAQffwxw6UWK8dEDgtYh8N0F9hr7anNKZQDuniuxynwncCNd1bPuGcGCDMvHfLYAi5RR_RtJk-qzVUnu-4gyXh1mm_X7Yror6oHBpfp9xkTT9sFSIZj",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]",
+      "Thai [Auto]"
+    ],
+    "created": "2017-08-18T20:28:41Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-09-26T23:40:23Z",
+    "objectives_summary": [
+      "Digitally sketch from life",
+      "Digitally sketch objects and scenes from your imagination",
+      "Improve your sketches using digital techniques"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2019-11-26",
+    "preview_url": "/course/1325264/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "5.5 total hours",
+    "content_info_short": "5.5 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/design/",
+        "tracking_object_type": "cat",
+        "title": "Design",
+        "id": 269
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Sketching",
+        "url": "/topic/sketching/",
+        "tracking_object_type": "cl",
+        "id": 7758,
+        "title": "Sketching",
+        "topic_channel_url": "/topic/sketching/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 28556,
+    "title": "Discover How to Draw and paint Comics",
+    "url": "/course/learn-to-draw-and-paint/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Neil Fontaine",
+        "url": "/user/neilfontaine/",
+        "_class": "user",
+        "initials": "NF",
+        "job_title": "Art Instructor, Professional Painter, Writer",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/168855_3875_3.jpg?DoLxJAMTBE11QER6abYrtUvHMpS9dhG_0T0e3GEVD3IsQfm_aG5FG3FhGMzwJjK1wgWcGYfri2ER6P81J2pO5p8QXM-H-uSJSlnptG26u9eBs9l56Ng9Fk7kAGIs",
+        "name": "Neil",
+        "id": 168855,
+        "title": "Neil Fontaine",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/168855_3875_3.jpg?QTAkpoKXFOjGWqJYHKQHJjqzV_JYTe5Ie0D_CiYtbeJ9UrMIEr6whaEcxRUdSVtDhtHJXxByMSyoGJgu-G_8a3HIr9PFyvHZGe6BUr3v_CGMFN5LGHUSkYwL5w"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/28556_e809_4.jpg?secure=0Do1_L7H-BKV-VbO83dviA%3D%3D%2C1607421802",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/28556_e809_4.jpg?RIwjB01zQcqsp3wlDfdb-JVcicpNBjmD8_idrDYL7s9Zgj0EhHIxRJ4vaauV7nxSfM1ygbWzS3TqE7LMjRI_pg4h6wtw9cHPCWLGoN_hXC3FWxDKdKy0us8hRPj5pA",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/28556_e809_4.jpg?l3_flIDq4uXip0OArI1eP0SxzAc-MK1SDtUqvFfO5hl1Q9IeN5UGHIS8K-K9GdabjRxMYwpSXtbLPJrlNmo7sxmUCjxT-Htk9-0ZN5N6u_L_H6ylDDbAjOVk5n2zhA",
+    "published_title": "learn-to-draw-and-paint",
+    "tracking_id": "UIoI9yNqT-2CtgHoUFkCYA",
+    "headline": "Learn to draw and paint; from your imagination, guaranteed.",
+    "num_subscribers": 18285,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "th_TH",
+        "title": "ภาษาไทย",
+        "english_title": "Thai"
+      }
+    ],
+    "avg_rating": 4.54167,
+    "avg_rating_recent": 4.51437,
+    "rating": 4.51437,
+    "num_reviews": 1043,
+    "is_wishlisted": false,
+    "num_published_lectures": 85,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/28556_e809_4.jpg?gfpkFG2MSDJ1P4CmLtOOCU39yX3BdOmvDhSrcNpc-IxlIOHLrxR0RwS9QM5LHr86xyJGCp94rlHu_ka_FCQBaVYTcfXXKuIgGykytCah-ODbrVHoCQ1zJVPLdII",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/28556_e809_4.jpg?jvuATrqD3Sh5-_KmqI7izXzFdCPlJZ6OilDY1mdiRR7a1OkEcYN2ehvI6nHP6-950vZIsY2l81SYdwcFoTpSCMRErs2mPSim_cCZzWVbdkTwu1SmyKyqOHtO-_vgxQ",
+    "image_304x171": "https://img-b.udemycdn.com/course/304x171/28556_e809_4.jpg?secure=aSqQMYvW03OL1NZ9Kw6yFw%3D%3D%2C1607421802",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/28556_e809_4.jpg?GDrNCkAxK3SeSnpfLvZFg08Kz54vlEzaVNGmHabCEeAhbGzZxL7zXgANYbvV_Bns5AoCC-pXIOKIV6l6AN-d8YlefB4N9VYz0Da8m19XkyoMs2IN1L3_8-xTtdA6-Q",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]",
+      "Thai [Auto]"
+    ],
+    "created": "2012-11-03T18:20:52Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2012-11-21T22:03:54Z",
+    "objectives_summary": [
+      "Learn to Draw and Paint from your imagination",
+      "60 hours of video lessons. That's 50 cents per hour. "
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2015-12-15",
+    "preview_url": "/course/28556/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "62 total hours",
+    "content_info_short": "62 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/design/",
+          "id": 269,
+          "title": "Design",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Painting",
+          "url": "/topic/painting/",
+          "tracking_object_type": "cl",
+          "topic_channel_url": "/topic/painting/",
+          "title": "Painting",
+          "id": 7070
+        }
+      },
+      "id": "fa703c30c7664708a9609bc35bc55812",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "fa703c30c7664708a9609bc35bc55812",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/design/",
+            "id": 269,
+            "title": "Design",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Painting",
+            "url": "/topic/painting/",
+            "tracking_object_type": "cl",
+            "topic_channel_url": "/topic/painting/",
+            "title": "Painting",
+            "id": 7070
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/design/",
+        "id": 269,
+        "title": "Design",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "topic_channel_url": "/topic/drawing/",
+        "title": "Drawing",
+        "id": 5494
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1047436,
+    "title": "How to Draw and Sketch for Absolute Beginners",
+    "url": "/course/drawing-and-sketching-for-beginners/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Rich Graysonn",
+        "url": "/user/richgraysonn/",
+        "_class": "user",
+        "initials": "RG",
+        "job_title": "Illustrator Designer",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/5520332_cd73_3.jpg?secure=nPtqrm6AB38YNtKlnVZFag%3D%3D%2C1607421802",
+        "name": "Rich",
+        "id": 5520332,
+        "title": "Rich Graysonn",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/5520332_cd73_3.jpg?6YnNsW1o2vaWJcZiVncSg7hKMPLrT3Bfz8QF6-bvQC_grwJV5ZW5j5ghTwUMa6C8yuZsQzJALKb1BUj7Z3jcJO0M-7GL836WL2tbL-P39ypvyjfOSfo75o3k2TM"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1047436_97b3.jpg?7dVTC8mAyq0cahuPhpb4kNJtTqzXJSZD2Z4HmnBjcjQxFBMz7SURVN6QWUP-FDm_LC9O8NvFtmsvP93TxW6NQ4SZmpHCWsKKv8M2jxWx9SNw7w532Nw41DNKIm0",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1047436_97b3.jpg?zxIFJs9x1su6tThPhKQ0cguPk6TuVOwM6WMP237ZkjKtM3y4hF1wAelDBCIw_y1h9JIvdXTO2nMGllKODbHjlWB24sLnVSHhqqa2o5iuKFlG883YmuA7elEE37-a-Q",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1047436_97b3.jpg?Uc2itzPgx_Bxw6h55CuJ7bbpaibBxcqYGL_RcAR13eCO83y6fDtQcP09Akt5aBnV5pSAQlqth9KQos53yVphKef8BtX33NGbJLDQejKLRc75nyf32dsEbocG-YJ-Kw",
+    "published_title": "drawing-and-sketching-for-beginners",
+    "tracking_id": "6d84NFuBRdeqC9kyk3FKjA",
+    "headline": "Learn the Basics of Sketching and Drawing",
+    "num_subscribers": 19025,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.41416,
+    "avg_rating_recent": 4.38851,
+    "rating": 4.38851,
+    "num_reviews": 3547,
+    "is_wishlisted": false,
+    "num_published_lectures": 109,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1047436_97b3.jpg?N9jFGzrsXzmRdcH26d0P0i_5bE2g55IBoCbY2x-isZxvG3X0_pkFVEknN9O3tLogfCe6zOPNMO5VN9_GR0q_ZiV1HNTQ60dzCymDfQOOA0EDLvi5J6snYN3IkDI",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1047436_97b3.jpg?5OtEjC3AM6_kZ9WEI1LaXQ_WmzPwVcHNnM6NaVRgEsiVInlY0D1WJ06jqdygdnUPAVpuiy_wrdPs3cE9RfR1t8_192xz0nwtoi8Btmx8NqI5F8zBPH8AUcW2unUCIw",
+    "image_304x171": "https://img-b.udemycdn.com/course/304x171/1047436_97b3.jpg?secure=BadKBORz5WPuUXqpiyODgA%3D%3D%2C1607421802",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1047436_97b3.jpg?30-_yPb_kLAYoBPRAAv7rzgmGpMl46bClesZP0yEhs4kvGYK6jAuGA9qsSWDfsx6kRyhq1sjuQgMIvV15PFoxCu37U1HjQvPlXfXcpdFpVPdg9BmOISlIKznp6Q5Ow",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]"
+    ],
+    "created": "2016-12-21T01:38:10Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-01-25T22:07:38Z",
+    "objectives_summary": [
+      "By the end of this course you will be able to draw almost anything ",
+      "The correct way to use reference ",
+      "Draw what they see and observe"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-11-19",
+    "preview_url": "/course/1047436/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "12.5 total hours",
+    "content_info_short": "12.5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/design/",
+          "id": 269,
+          "title": "Design",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Sketching",
+          "url": "/topic/sketching/",
+          "tracking_object_type": "cl",
+          "id": 7758,
+          "title": "Sketching",
+          "topic_channel_url": "/topic/sketching/"
+        }
+      },
+      "id": "14893778a1b144278c4757a788ef7ea6",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "14893778a1b144278c4757a788ef7ea6",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/design/",
+            "id": 269,
+            "title": "Design",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Sketching",
+            "url": "/topic/sketching/",
+            "tracking_object_type": "cl",
+            "id": 7758,
+            "title": "Sketching",
+            "topic_channel_url": "/topic/sketching/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/design/",
+        "id": 269,
+        "title": "Design",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Sketching",
+        "url": "/topic/sketching/",
+        "tracking_object_type": "cl",
+        "id": 7758,
+        "title": "Sketching",
+        "topic_channel_url": "/topic/sketching/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1071120,
+    "title": "The Art & Science of Drawing / FORM & SPACE",
+    "url": "/course/the-art-science-of-drawing-weeks-3-4-form-space/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Brent Eviston",
+        "url": "/user/brent-eviston/",
+        "_class": "user",
+        "initials": "BE",
+        "job_title": "Artist and Instructor",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27988174_e5c2.jpg?P1JG210mRSC7Q_QS-4W6ZTVaiP2fWJEHEDpJyKfclKXS6qjghGWbtJ3NqDSYTXBamVhstcXkK1MOtpJhIxzpy2hArhnRsRehG38yI14fdpKUJLOpPZYUwO09pgEM",
+        "name": "Brent",
+        "id": 27988174,
+        "title": "Brent Eviston",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/27988174_e5c2.jpg?secure=lTeRC0uApieW0zKxtqgZcA%3D%3D%2C1607421803"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1071120_b439_2.jpg?GFaaDmP6SC-fa5U-7rcA-Xe7n_JRuMRHXa5_v3OtclFFDdBQ9ZoLyqOb9jZHOzzM0oL-XwA8vxMzGoAX5tjsV4CHyYfDkA9bBAzq5z3gEbKE-uGMLN0XDsk1eOhejQ",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1071120_b439_2.jpg?VxXwJy5JpnRWphhCeu7bebuKFSGqwtKAS1lKJV97QQNVhZmEtOkOtCpgCMFwMg0diXHFS9dh7bseBec01gqiuPhMkzAfdSBiIAe0JIf2KZjkCQZr49ssICk6BX4vWgcA",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1071120_b439_2.jpg?UsAJYGcV3ObTvLB6qSXw46-ADq7FWs5cfjjNLc_jOu2VrvikPeI44YUY413iQo6jtQmpxNi2VsTxExTnuNVFMi72p8akmz-ZEcunLnnkflVA3wjo46xaB19uadHvE4j_",
+    "published_title": "the-art-science-of-drawing-weeks-3-4-form-space",
+    "tracking_id": "ZDm5FDYUSfmcSfU98wQeYA",
+    "headline": "Learn to draw in 3-Dimensions",
+    "num_subscribers": 16336,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "th_TH",
+        "title": "ภาษาไทย",
+        "english_title": "Thai"
+      }
+    ],
+    "avg_rating": 4.81437,
+    "avg_rating_recent": 4.82375,
+    "rating": 4.82375,
+    "num_reviews": 1857,
+    "is_wishlisted": false,
+    "num_published_lectures": 11,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1071120_b439_2.jpg?5vHuNDtaqHGVE1IAKxXw9t2QnF2K9zd7GkbPSExEq_IL-w4alTT-_3E7FhmExHSP0BTa2-Z8oiuSN_WMh7dokpIX1Dsa0vD5nSqMR9JtTl39y-avUECFoBymHPye9Q",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1071120_b439_2.jpg?xXfcFgM9JJ_kAK4zRvaERNqlxbr6VHcaY3KnAtUdf43mcqX52Wrk60HWvkoIfKi6SCjX_FzRVrUR49ArIJxt0oSmjdhK25IUcc45L2cEx4IXp2c4ac7uPXVUIfWOagnG",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1071120_b439_2.jpg?qWT0Pz-h1EXfNUNaY3OftFdFL7xgJBSu7TJOfwwMpAyQB1krJEBrr-sD_1xyZ027fCwKWKGskfosyH1UDouMhFok0HLfVv2Cr4guQ7ymKllZDsNc88XKzCxabGPmn1H9",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1071120_b439_2.jpg?xjqqdaonxyfyMDks-VNFElQFiTOT-eEoRWzQ-GOr8YeBiNhV1nt9Q3EJ8JP0KKz4wz9tfcNLDV34xdvMJ_rRg4vvNgF1MTMcq85aF6UGePk6mu-ZIyiyPmYHomg5dSQO",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "Indonesian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Thai [Auto]"
+    ],
+    "created": "2017-01-11T05:48:46Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-02-01T21:33:31Z",
+    "objectives_summary": [
+      "How draw the foundational volumes, spheres, cylinders and cubes, in any orientation in space.",
+      "How to break any form down into basic volumes and in doing so, understand how to draw them 3-Dimensionally.",
+      "How to draw objects properly in perspective."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2017-01-30",
+    "preview_url": "/course/1071120/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "3 total hours",
+    "content_info_short": "3 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/lifestyle/",
+        "tracking_object_type": "cat",
+        "title": "Lifestyle",
+        "id": 274
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1065192,
+    "title": "The Art & Science of Drawing / DYNAMIC MARK MAKING",
+    "url": "/course/the-art-science-of-drawing-week-two-dynamic-mark-making/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Brent Eviston",
+        "url": "/user/brent-eviston/",
+        "_class": "user",
+        "initials": "BE",
+        "job_title": "Artist and Instructor",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27988174_e5c2.jpg?gaAby1Bo_ODida_MgZd0PlUx3v5UVxf-v5WXuJhJlmgU48S0BK4hkc1xPm-5e6sGsmo24niZ6xkoh_8vgeLydhfMq1RJvwzmPu_mkrUgf_HOQXbISzTLAivIgJVC",
+        "name": "Brent",
+        "id": 27988174,
+        "title": "Brent Eviston",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27988174_e5c2.jpg?Tsd-girw5hhz-5CMl32-xBAZsKO3mrq7ErarvLTw4Yw_ml7rsVZrh4eeH2TtPj_olJtORBe1rJ3mILDKJ9-B5D6ZdYVlHXo5c69jykuRV56CWBimgd4u8wlwmw"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1065192_abb5.jpg?iWvKBuMw6SDlW7cKcEq6HOg5Izho0wGbqaXakLzAEIHpkXX8pRrhGUqLw4XW9ngXKdbEjxCPWnJFyVQ3LsVdEneCnOWth36ULIRqQ6BxlR9sF8hrH2Wsr_f4VuY",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1065192_abb5.jpg?8OV89VNubne_n1mlneB1EbMtQa5cxIz8ZnJPJtCaZlBBqX_mDDmOsXie9FOPQWiKwMOcW_Tkipupj4oC2nE5hA35GaaYFNXCo5XfimMDxXsciEIdPCSWmITQgsYE9Q",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1065192_abb5.jpg?5La6055NdF7Jsa2FWnUK8oROQ0GgQ9TpG17RB8btlATK2fhtyVRkwOm0GujHPxgubrFuuPyx38k2RWJFJ56JyVBmhZtVi39zt89ffAQO1jjlxpTv-AT3ORX8bdwmZQ",
+    "published_title": "the-art-science-of-drawing-week-two-dynamic-mark-making",
+    "tracking_id": "ioVx1bXqQ0GIqi6CamSnhw",
+    "headline": "Create compelling drawings using expressive mark making.",
+    "num_subscribers": 10965,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "th_TH",
+        "title": "ภาษาไทย",
+        "english_title": "Thai"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.72903,
+    "avg_rating_recent": 4.72995,
+    "rating": 4.72995,
+    "num_reviews": 1884,
+    "is_wishlisted": false,
+    "num_published_lectures": 7,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1065192_abb5.jpg?825lLg4QQwBBPWygVdhRkT1olgBVLiaioFGqZZu-CMz01_Lif0DEReZcHlVq_cHXbJFvb7eU8X3MvCnmMe7XE5EB27FCw6IRePxKy7gv-yahoyTagogUy6lA5lI",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1065192_abb5.jpg?3R0xpDTb89K_JYp6w4CTz7PB1itFl43pF0dWgXVIGh0HtsVnzPwRWpedIvU2r4WQbwyw50vF0KouTMA-3FvZL2siZqkzRUEQJtpylU2YVCUg66sDe-nvJAAf0ahjLQ",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1065192_abb5.jpg?ZesCu9CPyEj35-uNXjg70NoRpo1EZY5SB6kxQmcMF32wuKBHxh2MTs9fGDyqA2KwaQuYUH7BFDkf2g6Pp1RO_FUnKGIoji6hwbc3SrQ-4dLfFeA-jJEZv_NonSH-8A",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/1065192_abb5.jpg?secure=sJKRNwi9ULJ9Wygzdo3DaA%3D%3D%2C1607436632",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Indonesian [Auto]",
+      "Polish [Auto]",
+      "Romanian [Auto]",
+      "Thai [Auto]"
+    ],
+    "created": "2017-01-07T02:13:53Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-01-31T00:39:13Z",
+    "objectives_summary": [
+      "How to use the pencil to create a wide range of expressive and engaging lines marks.",
+      "How to infuse your line work with emotion that truly connect with a viewer.",
+      "How to draw objects in a way that give the viewer a sense of what it feels like to the touch."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2017-08-18",
+    "preview_url": "/course/1065192/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "1.5 total hours",
+    "content_info_short": "1.5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/lifestyle/",
+          "tracking_object_type": "cat",
+          "title": "Lifestyle",
+          "id": 274
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Graphic Design",
+          "url": "/topic/graphic-design/",
+          "tracking_object_type": "cl",
+          "id": 6020,
+          "title": "Graphic Design",
+          "topic_channel_url": "/topic/graphic-design/"
+        }
+      },
+      "id": "7c32237925944de894df10d04a382da4",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "7c32237925944de894df10d04a382da4",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/lifestyle/",
+            "tracking_object_type": "cat",
+            "title": "Lifestyle",
+            "id": 274
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Graphic Design",
+            "url": "/topic/graphic-design/",
+            "tracking_object_type": "cl",
+            "id": 6020,
+            "title": "Graphic Design",
+            "topic_channel_url": "/topic/graphic-design/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/lifestyle/",
+        "tracking_object_type": "cat",
+        "title": "Lifestyle",
+        "id": 274
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "id": 5494,
+        "title": "Drawing",
+        "topic_channel_url": "/topic/drawing/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1324548,
+    "title": "The Art & Science of Drawing / SHADING FUNDAMENTALS",
+    "url": "/course/the-art-science-of-drawing-shading-fundamentals/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Brent Eviston",
+        "url": "/user/brent-eviston/",
+        "_class": "user",
+        "initials": "BE",
+        "job_title": "Artist and Instructor",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27988174_e5c2.jpg?k7_LyLiPWtkycrvShpMMNOCNGthL6VXwd4ROmT2Qge6SotkPTMvfJs_76Ia8sjMp2aKfV3goG2jih22ATh21AiOiurLf0m82ZnqLDpjWVL83axZ4DiytG3obVemR",
+        "name": "Brent",
+        "id": 27988174,
+        "title": "Brent Eviston",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27988174_e5c2.jpg?vRRhcwqLFndkNsiRM_QzZOtjDE54FamsDnbAD6W5w1Lsba0k72WOS6AVQSkj0sMtsYyelU6X76Zw4Nklxy1SoMFfnaYqnyLca6e8WhLGslSdeJupZbvt3CnahA"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1324548_8935_2.jpg?kJc_THu6leSroiZIJQZRymV9kdRoRLqAgd5yesU-02BOZubi_KJgmK3mdxOACm6kkAGWDiiAyrVUxskUF28ZwhIISllrLSXIrQwB8pfKtLO9vjXFS53siJUiCE3GZA",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1324548_8935_2.jpg?tuQo4rJCYQRKSdlqPH9E1mwGj-QWd-r5MIZFRbuRIFdRKTWuGXj07pUcYcKuajLe5X2nOCDeoYvYhVWVrrb-23i4oknJXa1KkCtFpWEK-IOCfa7XzJEOAreJmokyykr7",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1324548_8935_2.jpg?CwG1t94UyR5wEhp4YtpQJFue3hvLPFDBoXM6aQcSlDjVWZAvRur7DDmpbmFbmts-JWu4c9TSs7gqOVZg9BahayJH5uS488_Pg2fj_-MisET427FEErPuv0USK_JbeIk0",
+    "published_title": "the-art-science-of-drawing-shading-fundamentals",
+    "tracking_id": "pQpHL9-aQcSJ8_Tg5Rp-hw",
+    "headline": "Learn how to draw using dramatic light and shadow.",
+    "num_subscribers": 9681,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "th_TH",
+        "title": "ภาษาไทย",
+        "english_title": "Thai"
+      }
+    ],
+    "avg_rating": 4.8125,
+    "avg_rating_recent": 4.81912,
+    "rating": 4.81912,
+    "num_reviews": 960,
+    "is_wishlisted": false,
+    "num_published_lectures": 5,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1324548_8935_2.jpg?c0aElm5-hv5dph1IY2Vr-v70PI3Hshs1CiiAXhTY64sp17mIbEsWQecMzGpNj6Muunecm2siRNLv6z6ZCYu1tKPF3nLf8QsMz1sUZQwAzXJaY466__SyXC58-OtBZw",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1324548_8935_2.jpg?T442_1Uq0LUI6bOqrGyGUVyBMK95Ypmsh43LWpHRB2yaDOInWo8K8DQD93964_-BcvQftER-4m3oqcdXzv4Vw11B_mz_0UARMPw0M3J_Rj6wDz-Gj_ljYmgwL9B43Bx7",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1324548_8935_2.jpg?iYposjm5XqAGZL6kGElAKcVppRIiOO8xArnTNoxZegyqvNXiwLgrC7KxmGHzefzvvMM52oWR00AR49HqIiSamkHJrvbMq512hMNpqJ_6QH_ATaWUnqMbqwlE7p5aOl6k",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1324548_8935_2.jpg?GS19Qv915psJlVgTTfAsB6ZwWGBNEr2pje1lGXZqq0VGMpFA95rAd34ZLvYSeVF7h_vqeL2fPtJlsEOqmsfBc7H4V9xhPqWX9jeOkyCNHwsJ0oZOGSlmOWrVeIURMZ4O",
+    "locale": {
+      "english_title": "English (US)",
+      "simple_english_title": "English",
+      "locale": "en_US",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Romanian [Auto]",
+      "Thai [Auto]"
+    ],
+    "created": "2017-08-18T01:53:51Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-09-04T20:57:36Z",
+    "objectives_summary": [
+      "How to draw basic volumes using dramatic light and shadow.",
+      "How light and shadow operate on the fundamental volumes: the sphere, the cube and the cylinder.",
+      "How to recognize and draw fundamental light and shadow patterns including the highlight, the core shadow, reflected light and the cast shadow."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2017-09-02",
+    "preview_url": "/course/1324548/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "1.5 total hours",
+    "content_info_short": "1.5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "url": "/courses/lifestyle/",
+          "id": 274,
+          "title": "Lifestyle",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Illustration",
+          "url": "/topic/illustration/",
+          "tracking_object_type": "cl",
+          "topic_channel_url": "/topic/illustration/",
+          "title": "Illustration",
+          "id": 6208
+        }
+      },
+      "id": "3961352afbed4e0b8b5007a142926477",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "3961352afbed4e0b8b5007a142926477",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "url": "/courses/lifestyle/",
+            "id": 274,
+            "title": "Lifestyle",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Illustration",
+            "url": "/topic/illustration/",
+            "tracking_object_type": "cl",
+            "topic_channel_url": "/topic/illustration/",
+            "title": "Illustration",
+            "id": 6208
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "url": "/courses/lifestyle/",
+        "id": 274,
+        "title": "Lifestyle",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Drawing",
+        "url": "/topic/drawing/",
+        "tracking_object_type": "cl",
+        "topic_channel_url": "/topic/drawing/",
+        "title": "Drawing",
+        "id": 5494
+      }
+    }
+  }
+]

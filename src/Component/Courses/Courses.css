@@ -1,0 +1,29 @@
+.main-title {
+	text-align: center;
+	position: relative;
+	color: #3c3b37;
+}
+.main-title:after {
+	content: "";
+	position: absolute;
+	width: 80px;
+	height: 5px;
+	background-color: deepskyblue;
+	top: 52px;
+	border-radius: 33px;
+	margin-left: -130px;
+}
+.course-topic {
+	color: #006bff9e;
+	cursor: pointer;
+}
+.courses-div {
+	margin: 0 20px;
+}
+.course-main-div {
+	display: grid;
+	grid-template-columns: repeat(5, auto);
+}
+.main {
+	margin-top: 35px;
+}

@@ -1,0 +1,2028 @@
+[
+  {
+    "_class": "course",
+    "id": 950390,
+    "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "url": "/course/machinelearning/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Data Scientist",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/2364054_83cd_5.jpg?JeBeBxd1p4t2XgjEQVYTIOLW0cEtAvk-FFrC6tLf0eqSwToR14Vs0yh9nX7_w3ODFKCNpyX0jrrtVrdQzC2Pf-Dzr7E-IlsQozCkWwPFGbWhs1xDeiiJOvAfy_CQgA",
+        "_class": "user",
+        "url": "/user/kirilleremenko/",
+        "title": "Kirill Eremenko",
+        "initials": "KE",
+        "name": "Kirill",
+        "id": 2364054,
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/2364054_83cd_5.jpg?secure=NUDdlAGaFCIl0kQwqYrspA%3D%3D%2C1607428899",
+        "display_name": "Kirill Eremenko"
+      },
+      {
+        "job_title": "AI Entrepreneur",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/22113450_6fb5_3.jpg?t3rHWlAHOcVk_fZpcbF1a0E2Tyl9naQeb4bdxtoXyELWf-sBTyDuQ3j2nHsy39gWboeNiA4MGWgYcQpMNdBncGxkRUNWT_M9i9HgSl2tZETxJ0bnTbUYiR7SLgRWbU0",
+        "_class": "user",
+        "url": "/user/hadelin-de-ponteves/",
+        "title": "Hadelin de Ponteves",
+        "initials": "HD",
+        "name": "Hadelin",
+        "id": 22113450,
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/22113450_6fb5_3.jpg?secure=pCAIqR3HTFRwOat9cndWTQ%3D%3D%2C1607428899",
+        "display_name": "Hadelin de Ponteves"
+      },
+      {
+        "job_title": "Helping Data Scientists Succeed",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27129696_acc1.jpg?0U4LDzoxaxq5HHmP1TdxjknTtyEnCEPin2wqQx7O_aGq7E0feRRs1N_dmESqcgChkMNcGlUxCJgIBCWYX98V3KfuUCQYENnHwD7gFAO3tDTeclSZHqRjjmLHhYn1",
+        "_class": "user",
+        "url": "/user/superdatascience-team/",
+        "title": "SuperDataScience Team",
+        "initials": "ST",
+        "name": "SuperDataScience",
+        "id": 27129696,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27129696_acc1.jpg?pw_nW3S0X-4kxbj-csKlsidpRtrjc1IHHg008X6kuZH8dWI1yzptyPXzW_CwwxBjQ-e9CBaf35_o9bZKEvEIM-AGZjLh2NQ41ria16bPV151hbWmLL5Ll72qhg",
+        "display_name": "SuperDataScience Team"
+      },
+      {
+        "job_title": "Answering All Your Questions",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/49643366_0fa3.jpg?ROVLOj_ZURtKkDUgCtPaLmXepUh9f7fWUwPiullMG7WAzSk5YoPX9M5y1W2fI7cbF5lBs4MasbtHKUe7t0VizxfZFtmg8Ar773OsKt6SGsdCeLYU6W0_fHao40J3",
+        "_class": "user",
+        "url": "/user/superdatascience-support/",
+        "title": "SuperDataScience Support",
+        "initials": "SS",
+        "name": "SuperDataScience",
+        "id": 49643366,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/49643366_0fa3.jpg?GtbSpahEYBZ-lhuLfmKkaqyOPMiLsM0VG0s6Qp9LL9tVq_F-Mu1H4JaFOcBCZP-WRPiSnq0zAm_89oKsk-cOS32mVQ_p5hFczqWTm8pK8ftYbYZDPfGsHrZUsQ",
+        "display_name": "SuperDataScience Support"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/950390_270f_3.jpg?t4_0erhwT-ttM42FwsEJXkgT2nXnMC2oMKXBCvB5eHEzSyYbn6JdoJHwl8lfVKEw8HL9zfJoVLcgJKh4es861smzvt5IMhl6N3HifxUvz0qJu2omLkegOAY3dYSY",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/950390_270f_3.jpg?JvxlR6rYPp8-qZ_bIr2WGkB5WabGmk60obSihMq2Z2iD-ekG76fGe6lq4Vf5Zcb_BOCzmXO6HsmleOKU2WoZaurG2k3yi6FeGJMYjGLfA7QnCfV37EkvXgIK2LBrUSk",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/950390_270f_3.jpg?IBcihc36TcSZ8VXFBWaQF4Ie0fqgm47GKAhAk50exev-bmeqjuWPMus9ZWhKGa0mwof8HWIAAs1FUJKPIwJnrHmYsfLHAj7vJcZqJpIx_VgeUfiXeTBAJ-w-yCY9arM",
+    "published_title": "machinelearning",
+    "tracking_id": "ZkDDR5zGTlOyTWNHYBsFSg",
+    "headline": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+    "num_subscribers": 721254,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.5282,
+    "avg_rating_recent": 4.52622,
+    "rating": 4.52622,
+    "num_reviews": 136385,
+    "is_wishlisted": false,
+    "num_published_lectures": 322,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/950390_270f_3.jpg?secure=gCY0dOThgfaj2qWP6mbCuA%3D%3D%2C1607428899",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/950390_270f_3.jpg?mJosWUyQFu6wt9C-pWucA4M16TcPonvsxJFgFovbPmTpkgiTYmP5KD_7jD2xoZ0BU8Q4o_cgqIdLOcFuYA88kI_hEphTjgenUeGjvDR8T85WtXa--w_xX8tPR3jPq1A",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/950390_270f_3.jpg?iEUV8bRb-3dqerZquKuAYMFs3r4C0XiKAO3sqZGw0UrHdPtwlAKmS9OCW9M5lLMf1VWiBvxW8DmA8alpItu5lJZDRpnQbP5De81OVPfq3PDje4tMHh5ej4TpLtMeRww",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/950390_270f_3.jpg?6sR2OclLV5BgnFnXweSji-HdGiVt1tLxV1hPs0Jt8moK8OsfZdHUeGp9ho-EAFB94wp9tplP93V5abylf4EjfpJ26BFu4tzDLtPAAtP9cov4IQs9x5LzxI3CZx4QTN0",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Italian [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-09-05T09:54:22Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-09-13T21:43:44Z",
+    "objectives_summary": [
+      "Master Machine Learning on Python & R",
+      "Have a great intuition of many Machine Learning models",
+      "Make accurate predictions"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-04",
+    "preview_url": "/course/950390/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "44.5 total hours",
+    "content_info_short": "44.5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "id": "b527fbeb786047b5b79d60b654032d70",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "context_info": {
+        "label": {
+          "display_name": "Data Science",
+          "topic_channel_url": "/topic/data-science/",
+          "tracking_object_type": "cl",
+          "id": 5336,
+          "url": "/topic/data-science/",
+          "title": "Data Science"
+        },
+        "subcategory": null,
+        "category": {
+          "url": "/courses/development/",
+          "id": 288,
+          "tracking_object_type": "cat",
+          "title": "Development"
+        }
+      }
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "b527fbeb786047b5b79d60b654032d70",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "label": {
+            "display_name": "Data Science",
+            "topic_channel_url": "/topic/data-science/",
+            "tracking_object_type": "cl",
+            "id": 5336,
+            "url": "/topic/data-science/",
+            "title": "Data Science"
+          },
+          "subcategory": null,
+          "category": {
+            "url": "/courses/development/",
+            "id": 288,
+            "tracking_object_type": "cat",
+            "title": "Development"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "tracking_object_type": "cl",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "tracking_object_type": "cat",
+        "title": "Development"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 903744,
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "url": "/course/python-for-data-science-and-machine-learning-bootcamp/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?0H25vnQuqVEXSo_zbnhbjyCYuFHHFSAzi1k_28L-vl97XJbSBYxV9v525vFC4ZzX0Anm3jeZkhcK1UzXo9-nJRqEHS6GAoo-ult1RSoU5FHuR693rsDDpGJigGCxJw",
+        "_class": "user",
+        "title": "Jose Portilla",
+        "url": "/user/joseportilla/",
+        "initials": "JP",
+        "name": "Jose",
+        "id": 9685726,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9685726_67e7_4.jpg?UdfxnKEXOAcv_fPQibsW1aQSafuqADM4YAKr7QsgdDteTLuBwV3Bqf7iB630EmoZ3m8yF0FOHn3nx7KrEScXxax0jYYYjvvHEuXieCijz3LsWp8ZrQGp_r6o7wM",
+        "display_name": "Jose Portilla"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/903744_8eb2.jpg?secure=f92I4hB28GlwruFaUqXj9g%3D%3D%2C1607418626",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg?secure=7N7Zl-g1ZWjSILsMNsYZLg%3D%3D%2C1607418626",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/903744_8eb2.jpg?5P78V0TZXqWzAmhmSFu_mKzMKVUu72WjrwjFZgpenScJvebgAdjf2FSiJOs7UZx6bAQz4AK-GXRvfXl9heUle5c2jESCBDwZeRdSk-465_4udB65Gs7W7cBzTsKg",
+    "published_title": "python-for-data-science-and-machine-learning-bootcamp",
+    "tracking_id": "rL3vrXTJT1SJ1yfenYM-4A",
+    "headline": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+    "num_subscribers": 408733,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      }
+    ],
+    "avg_rating": 4.60329,
+    "avg_rating_recent": 4.60927,
+    "rating": 4.60927,
+    "num_reviews": 91344,
+    "is_wishlisted": false,
+    "num_published_lectures": 165,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/903744_8eb2.jpg?secure=l2eRJwAdYJFsZ7ebt1WCEg%3D%3D%2C1607418626",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/903744_8eb2.jpg?anpQBLHCOSfD8KLLZDerijKRCBK5Z2KjApgmyfdQe3flVlW1qYfUpw8_oqaOkezY7OhmE0Wv_2F8lrLGhcOQw6FSOIw9SX0Yv8gKcVu-BLHGzYoD5u6SVOjPhsw2",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/903744_8eb2.jpg?V6_Egwt0XAD81fl6NDD9GAfJLbOdREBEEPurDACd5iluzp3FTVXcVJqPda36ZrEMb3KK17Yp52jhHdB7BeAblc7IUvHEmzHh2-XRCljDJQK41Eh5TrmCCFRhy0M8",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/903744_8eb2.jpg?secure=-wAdEjmy0KxyydQJ-yoobg%3D%3D%2C1607418626",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-07-13T05:22:58Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-09-18T17:36:23Z",
+    "objectives_summary": [
+      "Use Python for Data Science and Machine Learning",
+      "Use Spark for Big Data Analysis",
+      "Implement Machine Learning Algorithms"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-05-03",
+    "preview_url": "/course/903744/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "25 total hours",
+    "content_info_short": "25 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "tracking_object_type": "cl",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "tracking_object_type": "cat",
+        "title": "Development"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1754098,
+    "title": "The Data Science Course 2020: Complete Data Science Bootcamp",
+    "url": "/course/the-data-science-course-complete-data-science-bootcamp/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Creating opportunities for Business & Finance students",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/8280056_7887_3.jpg?D7qXPGsQOiX2mAQIDnwfVPmhDiQyaRiWx7TQRaEZlZ5-BM2K19wooE-3AAsK-GFMs-f8lEjiM7EESOwEr2LqO-7mBsjqdoTHGLXjj1RkfpY3LCcGFSq4_MHDCKhs2A",
+        "_class": "user",
+        "url": "/user/365careers/",
+        "title": "365 Careers",
+        "initials": "3C",
+        "name": "365",
+        "id": 8280056,
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/8280056_7887_3.jpg?secure=mwlRk0cOa_xhraTGwRmsjw%3D%3D%2C1607428899",
+        "display_name": "365 Careers"
+      },
+      {
+        "job_title": "Creating opportunities for Business & Finance students",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/48349002_9974_2.jpg?-Hpaa1OLMOWaP9L03s6bODW8a22fGHXyBGRS8pn9_K8vMEuMThTgy4c-vkNXY5e6jGo11NLJrxlR__ZXEU1I6Po4IJKsE14zx3HWb_N4RQedCCFwyTekjf8OkBshaqo",
+        "_class": "user",
+        "url": "/user/365-careers-team/",
+        "title": "365 Careers Team",
+        "initials": "3T",
+        "name": "365 Careers",
+        "id": 48349002,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/48349002_9974_2.jpg?vS5bHAZJdFCDhosjqhOB9eVthdMvxgBfG6HRQnf3LzbcTJ7He1n6WSB9edV1CUx2LcqXFaaFOtNViS25fP5CZBb4EPx6PV8SvLHCnI0iYiEyholC8XjVHbV4SiLk",
+        "display_name": "365 Careers Team"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/1754098_e0df_3.jpg?secure=rm_6hJ2COShKuWp52JvH4Q%3D%3D%2C1607428899",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1754098_e0df_3.jpg?k4B2lo8OTCgxkGvLIac9tK4CDLtSxHhGe2-DAlON4rM4WgT38qFz2KUWjwmbpSN1Z0QgBHXj1WgRy36Rc_mTtG7Nx51QIRkx2AlpxtAg7VDDIvoCD8AhAgJadXNATV87",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1754098_e0df_3.jpg?ogyf252_vEBDDxTsdZXpk_ue-xzOkjQDDjxv-LlKnCJ8MtD0_Z9GVF8Y5sQGO-m2Yvdp4bSAbmDhzZffTVUC0wBG_tnVVssS2OwWCGjouXnrww5P3Vqg7XhAYZUVx0T1",
+    "published_title": "the-data-science-course-complete-data-science-bootcamp",
+    "tracking_id": "M2LNAne6ToK-0Lg9Aj5DZQ",
+    "headline": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+    "num_subscribers": 348731,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.53855,
+    "avg_rating_recent": 4.53747,
+    "rating": 4.53747,
+    "num_reviews": 81613,
+    "is_wishlisted": false,
+    "num_published_lectures": 476,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1754098_e0df_3.jpg?r1e4sgtdLD_Ivqa-plojsHW0JUDmeAikO2nZgF3E5tXvXBWzN8NupliRkKJHoFWcm0TAT1SgzPAs_Kda6sSdblMGexg6g2_lDyPLokH6YMMlLCfqMqEKuQmGimh2BQ",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1754098_e0df_3.jpg?YNPnt9BHLE1sw1Z7T4Jv7baYclnxAixOzcKT7UDrLms_xU7YXDeZO5afyElwdUsqSPC9XWXIsSWxfCAwSsEizlfjLDli9RBfDzD_UmotasHm2M6lnG-3Sweb6RxBKgxT",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1754098_e0df_3.jpg?_i7ImQCmTK0yUFMaUY9-UohgOm-CHhQG_Fx-WjoJFZWIwv5h3F0W3CntFn4_VTC0RPxWs7rJbXY79Lx13iDL2LgMm8lg0ADnrh6saud_0K4M1hvWQKudJT7A82dW0QZ5",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/1754098_e0df_3.jpg?secure=Qwzns3OmHadw7maYd4Aozw%3D%3D%2C1607428899",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2018-06-18T12:30:08Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2018-06-21T21:27:03Z",
+    "objectives_summary": [
+      "The course provides the entire toolbox you need to become a data scientist",
+      "Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow",
+      "Impress interviewers by showing an understanding of the data science field"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-11-29",
+    "preview_url": "/course/1754098/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "29 total hours",
+    "content_info_short": "29 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "id": "1ea70dcc48204bb89295e2746ced3d86",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "context_info": {
+        "label": {
+          "display_name": "Data Analysis",
+          "topic_channel_url": "/topic/data-analysis/",
+          "tracking_object_type": "cl",
+          "id": 5328,
+          "url": "/topic/data-analysis/",
+          "title": "Data Analysis"
+        },
+        "subcategory": null,
+        "category": {
+          "url": "/courses/development/",
+          "id": 288,
+          "tracking_object_type": "cat",
+          "title": "Development"
+        }
+      }
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "1ea70dcc48204bb89295e2746ced3d86",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "label": {
+            "display_name": "Data Analysis",
+            "topic_channel_url": "/topic/data-analysis/",
+            "tracking_object_type": "cl",
+            "id": 5328,
+            "url": "/topic/data-analysis/",
+            "title": "Data Analysis"
+          },
+          "subcategory": null,
+          "category": {
+            "url": "/courses/development/",
+            "id": 288,
+            "tracking_object_type": "cat",
+            "title": "Development"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "Data Science",
+        "topic_channel_url": "/topic/data-science/",
+        "tracking_object_type": "cl",
+        "id": 5336,
+        "url": "/topic/data-science/",
+        "title": "Data Science"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "tracking_object_type": "cat",
+        "title": "Development"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 765242,
+    "title": "R Programming A-Z™: R For Data Science With Real Exercises!",
+    "url": "/course/r-programming/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Data Scientist",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/2364054_83cd_5.jpg?k9Nw-0iJuOcxFNW_O8nWmzsBz2Ai2t89uheFEhVJqMv9vO_Ct2mJd4c8P3rZjvA6Nc8fBb4YKqASpsTIhRjYV-SYaLIpYA33ZdjxKmBakzneAwBJc-PHNlT1nEKy4A",
+        "_class": "user",
+        "title": "Kirill Eremenko",
+        "url": "/user/kirilleremenko/",
+        "initials": "KE",
+        "name": "Kirill",
+        "id": 2364054,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/2364054_83cd_5.jpg?9qp79Edx7TUOnDclvJzYgA-SiSicUh7zaPYTssSbhh67wwcV6rgXJu5QA_h47jGdnffg5gsO5fmF3L7tQshp7fFclUr4SG7NjtpjyiJ7qICXTEV4YFYIg60UYKk",
+        "display_name": "Kirill Eremenko"
+      },
+      {
+        "job_title": "Helping Data Scientists Succeed",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27129696_acc1.jpg?M8aulGofyTmEX0xywb71OEbaV65vSnVp5bE7QZFpk4heTECqwzE4ttnGW7BAEMShu0Ju7UGAkhPi6VkS0KI0O0UUCj0bEHclau8ytHNtsig84nTMNgF3gWNN132S",
+        "_class": "user",
+        "title": "SuperDataScience Team",
+        "url": "/user/superdatascience-team/",
+        "initials": "ST",
+        "name": "SuperDataScience",
+        "id": 27129696,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27129696_acc1.jpg?F5nHtCKsryp-rAjggABTSpijBR3GxledG7v6KwEBl0-zUegqwLLp9CK0HHEsdtNozJSIEWEli1XaF65FV_8pvGhEMcezwdQV2tT3zr93aQAdduy41SJ8P2lPBQ",
+        "display_name": "SuperDataScience Team"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/765242_2578.jpg?tqjSlnRqW8M57AT1zT3rXZXG9BTnMJqvl77netyDpTZZ9Ez0n1HFF7Z4cemPVACXhW92kOYAq4ZXf7gm3IwxWquAt52W-fHXuhf72clswZH81dxLkZpXqFeQlg",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/765242_2578.jpg?foFXaYABnVKztWjfoyocCPSV8n1gm-nbA7YCbSW0Z1jmJeamw1gelt62FYXg9VjV4iljmvLGU17ET8Q1hfM5dd0Sn93sfaL2ghYGBLssXvy-YQe9kt6eBVBzhIuG",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/765242_2578.jpg?DuzCVWa0_L8yyQRpLTcwB3SQIGVsqHsgbQrVZA5eakOpu6mmtcH2XqvwfL96HAuL9yg5Bf88d0vmvyjvn5O-GouwSvw3KtorBRwAc29GCcYBN9OMzLt0YCKEu3Qa",
+    "published_title": "r-programming",
+    "tracking_id": "89PF7HgbR-al8I46KTKDWw",
+    "headline": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2",
+    "num_subscribers": 194750,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "tr_TR",
+        "title": "Türkçe",
+        "english_title": "Turkish"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ja_JP",
+        "title": "日本語",
+        "english_title": "Japanese"
+      }
+    ],
+    "avg_rating": 4.59644,
+    "avg_rating_recent": 4.58546,
+    "rating": 4.58546,
+    "num_reviews": 36984,
+    "is_wishlisted": false,
+    "num_published_lectures": 82,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/765242_2578.jpg?PJnBpXv1PMOD9Irfg5XYE5tT_nLhm-wet7BnsFvL72RQIC1QBFvWcS2buBq8evhtbpURN6Cjwchd97ptvARvZMFH3xVK5bbnzM0SNmEyHH2k3bwj1uTfdLUP6w",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/765242_2578.jpg?ngc06RPWx1JRXx3lls8iVp3zSL_6qBpkyJ9Phk2Z2nPRpIuj-CIM7yBNzeJlxPce6428iYNNtouFdAPOOYS--6NUiIEoIm3ONZSareERaaecXHDNqO_gVmr-6VVH",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/765242_2578.jpg?NlZcMH_Emz_aAi3VUefpekgLiG6dATl--9OzKI_hhLc-dCHmmuGrr55nT7epBJt73vAeBEza-7zKkImCEYCF_XmM0gnKTKPr--GCgqxgsNvA8CCX7PxjXsx-v1hN",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/765242_2578.jpg?secure=h5VVxHmSk4s9oB3LPaXlhA%3D%3D%2C1607418626",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Japanese [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]",
+      "Turkish [Auto]"
+    ],
+    "created": "2016-02-17T09:34:04Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-02-23T18:05:22Z",
+    "objectives_summary": [
+      "Learn to program in R at a good level",
+      "Learn how to use R Studio",
+      "Learn the core principles of programming"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-04",
+    "preview_url": "/course/765242/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "10.5 total hours",
+    "content_info_short": "10.5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "id": "8d9461613e56442a8a7e68885f33bdde",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "context_info": {
+        "label": {
+          "topic_channel_url": "/topic/r-programming-language/",
+          "display_name": "R",
+          "url": "/topic/r-programming-language/",
+          "id": 7432,
+          "title": "R",
+          "tracking_object_type": "cl"
+        },
+        "subcategory": null,
+        "category": {
+          "id": 288,
+          "title": "Development",
+          "tracking_object_type": "cat",
+          "url": "/courses/development/"
+        }
+      }
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "8d9461613e56442a8a7e68885f33bdde",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "label": {
+            "topic_channel_url": "/topic/r-programming-language/",
+            "display_name": "R",
+            "url": "/topic/r-programming-language/",
+            "id": 7432,
+            "title": "R",
+            "tracking_object_type": "cl"
+          },
+          "subcategory": null,
+          "category": {
+            "id": 288,
+            "title": "Development",
+            "tracking_object_type": "cat",
+            "url": "/courses/development/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "topic_channel_url": "/topic/r-programming-language/",
+        "display_name": "R",
+        "url": "/topic/r-programming-language/",
+        "id": 7432,
+        "title": "R",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null,
+      "category": {
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat",
+        "url": "/courses/development/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 513244,
+    "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+    "url": "/course/datascience/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Data Scientist",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/2364054_83cd_5.jpg?seXzlj6GKysMeIpRd0XUVb9O1kGRvl7D2nds4KVw7gYYvU8gqI-WFWg3JVHm7vUEnzi-M2gDk5WG3opMSUADj3o6IFu455qMAbW-wch2_fO3EOXd11GeGa0Mnlzilw",
+        "_class": "user",
+        "title": "Kirill Eremenko",
+        "url": "/user/kirilleremenko/",
+        "initials": "KE",
+        "name": "Kirill",
+        "id": 2364054,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/2364054_83cd_5.jpg?qEVkS1pdE85aQL_GAmFCQ_aF5W5-8cbXTOca8pNZlA9IC20A0jQGD1vF9RvQvn_YBTYqVZ0XBHSgLKDo-fC7qDFMquBrOHEA8gB0DR8AJ9uEqm0eqBpt6TWFAuA",
+        "display_name": "Kirill Eremenko"
+      },
+      {
+        "job_title": "Helping Data Scientists Succeed",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27129696_acc1.jpg?QWG6doovkfpC46Y5HvfNQBC9-QD9vwoeQfO3kaKBPHOtqZNToh2gYKiikS8mAXDIpEk0u0sCeKYkH5f-BP1TkrHrjlHrxeeHP3epkEvjjtUnEys_sCypJiCIU6i0",
+        "_class": "user",
+        "title": "SuperDataScience Team",
+        "url": "/user/superdatascience-team/",
+        "initials": "ST",
+        "name": "SuperDataScience",
+        "id": 27129696,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27129696_acc1.jpg?ZXIwCVRUevEHMBNfuilLATT74dq_44Ud7kbzabU-lCo6x9gDl3jJkDGMptXwJP_gf5LMR-nl92reIEhu2yJrxedteVxjsxbT6TsrNxr4LSAzqIWRE1fKeMlmKQ",
+        "display_name": "SuperDataScience Team"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/513244_b831_2.jpg?secure=4nSCpo1e6FVlM8RXOFL2Sw%3D%3D%2C1607418626",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/513244_b831_2.jpg?ZbQLPkFiYrsnzliRldRJnn2DmQ7wvLf5lr18LR2X2G7bQiH45V0TVHW38Ri3Zs7k02szLmYUzWy-w6KqX58iLEDxlbZmB6DSAIFciqAdTZuh7qUmR2M5STEes6cEuYI",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/513244_b831_2.jpg?ZD7TeBWE-m-QXNqI8VPmc5-hfTESkh0bFFY96tHqUACUPrcP8HdlPTiZbGgDcSaiLSmJQop17nRtEJWkGMeiBbRYy5Tae75eCyqIzyUpRlaSsBdGOE-0CG2aaXQJbZ8",
+    "published_title": "datascience",
+    "tracking_id": "6RLXWRlkRUmwWhX4xjuWmg",
+    "headline": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
+    "num_subscribers": 183364,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      }
+    ],
+    "avg_rating": 4.58472,
+    "avg_rating_recent": 4.58705,
+    "rating": 4.58705,
+    "num_reviews": 28344,
+    "is_wishlisted": false,
+    "num_published_lectures": 217,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/513244_b831_2.jpg?SvYr-wuA_Z_jkgJzFT7NoG90iucnbwAQSt_z0A6nz-fe5CXUgfpccRIFPkU1V7CQk4K8fVY0sy-PgUYcZhii5KVPEEHHY5vFgq3r1JXJTuCxhrwBdW73PKGdXScV",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/513244_b831_2.jpg?MWEKYM758i99hAXo4p23Il3nvzyRxcUvbog9zKxttT8Cu2WEV3ct4_HiuQECc-xJUhfY4seV2ZqviP3tbiozcTwYWZYRJyaabKsSZly8bfSalj36rkXL2Nmo0j3viTE",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/513244_b831_2.jpg?HWsvANEtNXVPblk6S8pttCXXr4fZvwRfTfE3YROzhhM8ljLc-Vudc-lvqIEOntiphMcVTFEyiZUoM9twFJBHa8STpNL0S8XOxZTnqPYbJ3Zzv6Jd9-4Ud0oIGcxZONw",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/513244_b831_2.jpg?-T3xAozkrj29mVwLDAkCIRfwmBBnKCfzrytI_Ifd6TySV52ESJRz-hdbAb5rLJDFJrEUGOhI8btuJACIcZ6kcUwsDIi9EshNKjiPbJdx2sv2WRiP1_Zl-1CrzzLiULY",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2015-05-28T00:45:37Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2015-08-18T20:20:15Z",
+    "objectives_summary": [
+      "Successfully perform all steps in a complex Data Science project",
+      "Create Basic Tableau Visualisations",
+      "Perform Data Mining in Tableau"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-04",
+    "preview_url": "/course/513244/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "21 total hours",
+    "content_info_short": "21 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "topic_channel_url": "/topic/data-science/",
+        "display_name": "Data Science",
+        "url": "/topic/data-science/",
+        "id": 5336,
+        "title": "Data Science",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null,
+      "category": {
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat",
+        "url": "/courses/development/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 671576,
+    "title": "Machine Learning, Data Science and Deep Learning with Python",
+    "url": "/course/data-science-and-machine-learning-with-python-hands-on/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Founder, Sundog Education. Machine Learning Pro",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/13148312_b29e_3.jpg?dfeNpTMXY9iDfikwEAZ42yMlMIzsEaiYqQRSiwg5G7Vvnx64aGwOBx0xlVRFLNwJcnpYC9XPBw-C4XpehXNbGWPlvDAzRj5DZzumBcVWbK31MpDftCpRKJjn9MEmQTc",
+        "_class": "user",
+        "title": "Sundog Education by Frank Kane",
+        "url": "/user/frankkane/",
+        "initials": "SB",
+        "name": "Sundog Education",
+        "id": 13148312,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/13148312_b29e_3.jpg?UGjszXPRn-Obs2cF2VNyw0QQsmSH3TTOa3VwXGzaL4_artYgU7RlT3ANAwlcpKPXJuOLy6L3PngIxY3K08BqRFhliB20IO9V8YbTyvTewn1hGxcjdDvjKrLeEIIc",
+        "display_name": "Sundog Education by Frank Kane"
+      },
+      {
+        "job_title": "Founder, Sundog Education",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/32164746_8429_2.jpg?1Fqc54Nj75Z0-uaQTn3JytC7dtsRgq1Ov3S5pWa3Vhq-Lfer0XgIZlI54y49QN9s2NiOCKbPBmUr5cDpWgm-nYjqqZorDBnFW2nMCN1BjcKd4Leuqd8ShPPMUOXBVek",
+        "_class": "user",
+        "title": "Frank Kane",
+        "url": "/user/frank-kane-2/",
+        "initials": "FK",
+        "name": "Frank",
+        "id": 32164746,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/32164746_8429_2.jpg?1ZR7L9EkTSghL6hh0lN7ChuU5ecP9HJVvpyrCSBA0PbWgaTbp-ZHbQC1SDCLjXIoiKfLtG-QSWj5KVPWbuByERR0RUSePzp0UeNwyMUE3NdZW0CnDlg6YxwEKiVB",
+        "display_name": "Frank Kane"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/671576_a272_4.jpg?YFLb84wf4mABzMBG3InIeab214O7twYxWGVBK2TMNp_N0Sj_kT8TgvGJAjIhepUVGERkgj8Jv7qJd893yEixlLAZqPYBiu0M25zvzx3lpmzQg22Q_PqxM4bl0VDG",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/671576_a272_4.jpg?secure=CWhMXvLfVutHbK1awKcv-A%3D%3D%2C1607418626",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/671576_a272_4.jpg?IgGB1FCZIVjiiwLFKrNpYLvJUIz82qkHtODaOmuzV2UUkexfU54rpJsBGrxaVSry2QoZisP9FKDABw9-TYRS0mBkwwt7zVhnLUhKCFzUcgYAPHId0SORXAEpOgJ8Zto",
+    "published_title": "data-science-and-machine-learning-with-python-hands-on",
+    "tracking_id": "DSyUJ8VfTb-dTV7KeYohQg",
+    "headline": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
+    "num_subscribers": 138548,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.48199,
+    "avg_rating_recent": 4.48346,
+    "rating": 4.48346,
+    "num_reviews": 23322,
+    "is_wishlisted": false,
+    "num_published_lectures": 111,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/671576_a272_4.jpg?nx4hODnBqVy1ZoqADTVCh4V_4QcUphHjjIto65u2a8DBsg57wpwJAsLKUZ1AeXvr6rsY__mxhGTtP3C0cIch1LY_QEFp31hv32dOcXgjkAy-dgmtJ4cYqPmDFPe5",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/671576_a272_4.jpg?9pexyWiKkg7GgbeMJVI2K8Sj87eCjZCLHxDy9wBf7MEPXsCJJlHIxudD3JqhxKFtKVEEa3LxkfSjukwQvP3Wnj2euq7tZHdepFYjf1I7mPrfjc5q0glCqdCmRoRoajo",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/671576_a272_4.jpg?FvlPQCEXcTcGiwjNKZO4UXVVenlXw5taIr2oOj0NqxQNIp4jIG4KbfBCO1JWnYGo94_CHYeh2-suS231WmMSSkqNa7C48as7ANLo3LHfluJiFRqRQHrgMfHwhmtgoSg",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/671576_a272_4.jpg?MEXOrXduUi8J8tdHF7GDaogH68vUuBtWEjaL4sqW42HYBdXdq46qC9MBF1_N5y9Mgjk6D4zQUWoBdAp8vUapHQYh9lsAZA_8r-c58E9N8E9a9BCF3pvz07JoG6wnof0",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]"
+    ],
+    "created": "2015-11-16T20:09:45Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-02-02T00:11:44Z",
+    "objectives_summary": [
+      "Build artificial neural networks with Tensorflow and Keras",
+      "Classify images, data, and sentiments using deep learning",
+      "Make predictions using linear regression, polynomial regression, and multivariate regression"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-09-09",
+    "preview_url": "/course/671576/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "14.5 total hours",
+    "content_info_short": "14.5 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "Data Science",
+        "topic_channel_url": "/topic/data-science/",
+        "tracking_object_type": "cl",
+        "id": 5336,
+        "title": "Data Science",
+        "url": "/topic/data-science/"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1298780,
+    "title": "Statistics for Data Science and Business Analysis",
+    "url": "/course/statistics-for-data-science-and-business-analysis/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Creating opportunities for Business & Finance students",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/8280056_7887_3.jpg?secure=9UC40-cZulYIocKPvrYqFg%3D%3D%2C1607418626",
+        "_class": "user",
+        "title": "365 Careers",
+        "url": "/user/365careers/",
+        "initials": "3C",
+        "name": "365",
+        "id": 8280056,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/8280056_7887_3.jpg?YXD2sqnBHGEA-LhRqRgCIrgquUJtdIbhr6sHx0YPgQ3EwZ9rSqugAPdvmWyvsH0TmdD4mRFPxFvDTDcbTR5qZOkMThB898HqPErsyHD2Bd_W3_4hf4cHLxjSfyo",
+        "display_name": "365 Careers"
+      },
+      {
+        "job_title": "Creating opportunities for Business & Finance students",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/48349002_9974_2.jpg?P23mgotQ3ouroEp4B9yVVKdeEsGbWwzkhCMJD8Wfedgw0OhMn6-9s4EmV79WJX1ma2wTEF0S2FJhWLC3xWy6rESuLlf6lg_F8vvFbj-5_lGW6zYiGw3iDFf6yFW5w1c",
+        "_class": "user",
+        "title": "365 Careers Team",
+        "url": "/user/365-careers-team/",
+        "initials": "3T",
+        "name": "365 Careers",
+        "id": 48349002,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/48349002_9974_2.jpg?BrUMtFcAM70c396jF7mL0pIIDpU-FSpD2GU0XA3pH7zcb0xoBFBFfDE6auZumg2_5pNiSe5wrdrzCPnAVclk_csERpDtzQ27kQhfE1HbuiP3rgJmrnF3fcBO7Yd_",
+        "display_name": "365 Careers Team"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1298780_731f_4.jpg?3gwk6tuMDvYRqgNPMje1H48rcvTtVtgv44iVbqhdXX7n8baMngexkfNGt1CrArT9JBy2zLjSNoHqCCUqNsV9SPxe5wPZ6TU1d-mJhONQYM21186im13AfxHpqaKd1g",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/1298780_731f_4.jpg?vf5CDIRdwomTdbInJRkmuuxx64t7dKAsuq0p1Xf7D6JBzPt5wTyS3__VOfW41bR5XivK_TDCBA8lXHWVxyHo1r2_CeyI7RUReRYQBophpMzuqHj-XCqJd1FQBzayJq6S",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1298780_731f_4.jpg?RoBs_6O0HjsQ_6CKVQEy_4h2YcaA9uELWv0S0K-TN_gxcFy6_yI8ZfYRQdYX_Wij3SiE3cetHeOd65MF8ziAjd9JsjdFp4-p_iUnr6wmTmYjnZ6gwHpBc3T_F61ldpTX",
+    "published_title": "statistics-for-data-science-and-business-analysis",
+    "tracking_id": "m8rPTRk7TNuTCK_NGcOEIg",
+    "headline": "Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis",
+    "num_subscribers": 88432,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      }
+    ],
+    "avg_rating": 4.48355,
+    "avg_rating_recent": 4.49338,
+    "rating": 4.49338,
+    "num_reviews": 18871,
+    "is_wishlisted": false,
+    "num_published_lectures": 92,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1298780_731f_4.jpg?XUglzLSHJ5Cp4XPfpfPTmXXpnZ_ftFfIFE1sxegBdiiG76yrOXRYVAMs-4lVROkmpDDQ5LITq42O669IDhAqEP9wCjNZ7dQko6thMKnUTd6QA7suTKfrQdZU-JNIjg",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1298780_731f_4.jpg?3sjmOaxqiezKRqY-NVsOWW0OzngHi_jy8nKS4qAUy7K3XyWEv7zDUSLBcKPIGHQD4yHJYbgfJdPqwx-DzzN-OhNvzgB8TdJDGOv9Zi76XdAGo3djRKftLflM-9Nfgu8A",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1298780_731f_4.jpg?qpGvYzQGFOqVeJ7jnO-UP2QyBNiwFHod2Ap_2U8SUMaIt-F4RNkyQm0TulmoKztw2mXQBBfwkkKP69E9qGwAw6Ei5Wdbe9GK9-NkpZltZpr_pV8OQ0rQZIeUzu-MtSff",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1298780_731f_4.jpg?U3RrSSj5-G6Iu_HhgWDNkFoMteOosBX6t1u731gmeU8fnVuhd0P2G8PtRVU2gBFUgE9b4SZCYz34WtPzrf85SgcdUf6q6VMxs-Z5I64AzkPH5R6J_bvJTNSe4IKgq_8u",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2017-07-20T07:28:16Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-07-28T04:11:51Z",
+    "objectives_summary": [
+      "Understand the fundamentals of statistics",
+      "Learn how to work with different types of data",
+      "How to plot different types of data"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-06-24",
+    "preview_url": "/course/1298780/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "5 total hours",
+    "content_info_short": "5 hours",
+    "bestseller_badge_content": {
+      "badge_family": "bestseller",
+      "id": "d383e8b40d3f4f94ad11fab37fbc83c3",
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "context_info": {
+        "label": {
+          "topic_channel_url": "/topic/business-analytics/",
+          "display_name": "Business Analytics",
+          "url": "/topic/business-analytics/",
+          "id": 4864,
+          "title": "Business Analytics",
+          "tracking_object_type": "cl"
+        },
+        "subcategory": null,
+        "category": {
+          "id": 288,
+          "title": "Development",
+          "tracking_object_type": "cat",
+          "url": "/courses/development/"
+        }
+      }
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "d383e8b40d3f4f94ad11fab37fbc83c3",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "label": {
+            "topic_channel_url": "/topic/business-analytics/",
+            "display_name": "Business Analytics",
+            "url": "/topic/business-analytics/",
+            "id": 4864,
+            "title": "Business Analytics",
+            "tracking_object_type": "cl"
+          },
+          "subcategory": null,
+          "category": {
+            "id": 288,
+            "title": "Development",
+            "tracking_object_type": "cat",
+            "url": "/courses/development/"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "topic_channel_url": "/topic/data-science/",
+        "display_name": "Data Science",
+        "url": "/topic/data-science/",
+        "id": 5336,
+        "title": "Data Science",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null,
+      "category": {
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat",
+        "url": "/courses/development/"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 821726,
+    "title": "Data Science and Machine Learning Bootcamp with R",
+    "url": "/course/data-science-and-machine-learning-bootcamp-with-r/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "display_name": "Jose Portilla",
+        "_class": "user",
+        "title": "Jose Portilla",
+        "url": "/user/joseportilla/",
+        "initials": "JP",
+        "name": "Jose",
+        "id": 9685726,
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?J-onuO0_NFSmLkRCPHYRkNkQDkRsVw5SMR7pEEH8Myvea7Cdk8fhwern8-yxu8XG0jws1e18oM7ieVZ8T0dvOSo43rgndZC3G16IZ3O9RvmSLm2BfZ9vkSwee-Ui0A",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9685726_67e7_4.jpg?OET8ho2p50UdefpJvCe3OnMke-eO4NCavnweGVjmS4hVDh4hMBbyPSXZh6Sb_6MlSDKfrDAg8CweMMwSPlTIEi7RFvcV_MkwsT_898LsDaIG7Dj0Sjbo9JlKnRI"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/821726_8071.jpg?secure=NQGqA5SWGcgcpYYphVKT4Q%3D%3D%2C1607431865",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/821726_8071.jpg?MgZ7j2tItdnmt8XXdLIpYIBOP0rxDGrHTRryhzXVP5N2LqdrCS3nmjJQ2IRrTot1kj4CPSajLmFUaDwsBfiso6BrPIJcbJpsSoE7n3A_k5iqQhxbk2MPfFztj6ry",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/821726_8071.jpg?7VM9xBgr5i711kVHEDohJkHNuqjT9udMi0UjnIB2ka9FFFS-EHf3DQj9upyCeYJm0VriMiNUuUDKBe73E8VvYVM9_VIyNG8KJpIlL7kOF51Ksh8k6h-AtprzCiBa",
+    "published_title": "data-science-and-machine-learning-bootcamp-with-r",
+    "tracking_id": "N-aHrLvGSTOSNu1xq9aJcg",
+    "headline": "Learn how to use the R programming language for data science and machine learning and data visualization!",
+    "num_subscribers": 63917,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "th_TH",
+        "title": "ภาษาไทย",
+        "english_title": "Thai"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.62047,
+    "avg_rating_recent": 4.63864,
+    "rating": 4.63864,
+    "num_reviews": 12240,
+    "is_wishlisted": false,
+    "num_published_lectures": 128,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/821726_8071.jpg?edusDtReVQbrSBHJ8Ylt72pU0yeRfcx8WDhlIalYxEnxE1p_D3msiyRXVy3UcjbjGKLkRUTQjBuf-wxfi0iOrmka6tt1bMJgqodnvnp_T2hMrcSgGnW2KEjTzA",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/821726_8071.jpg?iF_KgLjT9df7b_BNXAK9y84LoC2M1hH-NTJcdk6A3dllPw1BpCTW-TYyruR_R9PYYfXjIa3a6DAteW1yLmhqyExQpfVt2r9qKVlaynYkEYFHxaxIxkLgmFswu8PV",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/821726_8071.jpg?4pibnHvRGt0VmRB2Ayf89Zy5IBI7eTLeNdNMfj--yibBRFFM3dTb89Fmwr0Bc_6XSAKEHa-ywrwbU6BtOXPNIFyAEiOFZbowQHb1bDRWUIAkonawT_rB0Ug1L0bJ",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/821726_8071.jpg?UU9MTT5amCFGbXHOoFbo7ahXiIWLH0rJ-GjGnKtzQdm1QEQ7rHL5Dgng26QF2gBtVoZpql6ASv6PBrnI3MAJUZ02AG6r-vEwFzQNV0KrnAFIXxAiydcugLovzHNv",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]",
+      "Thai [Auto]"
+    ],
+    "created": "2016-04-14T07:01:20Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-07-14T14:59:46Z",
+    "objectives_summary": [
+      "Program in R",
+      "Use R for Data Analysis",
+      "Create Data Visualizations"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-11-01",
+    "preview_url": "/course/821726/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "18 total hours",
+    "content_info_short": "18 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "Data Science",
+        "topic_channel_url": "/topic/data-science/",
+        "tracking_object_type": "cl",
+        "id": 5336,
+        "title": "Data Science",
+        "url": "/topic/data-science/"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 913448,
+    "title": "Python A-Z™: Python For Data Science With Real Exercises!",
+    "url": "/course/python-coding/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Data Scientist",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/2364054_83cd_5.jpg?nCV67eULPQfbql7Sq8gjiOF_ECIXcySFoptS8cpbwHt_qsgHjwfx0N0tBluaxEV1Ydk7f-rxwD-l05xN7u8SVszCw0Uf7FRVYr6tIneJ2vhIHUIWfltNelRGdsmcqA",
+        "_class": "user",
+        "title": "Kirill Eremenko",
+        "url": "/user/kirilleremenko/",
+        "initials": "KE",
+        "name": "Kirill",
+        "id": 2364054,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/2364054_83cd_5.jpg?C3y6a5mjtpgShAtv-m2ZvnRApDBNDjCKsZMMsunXMn2NWsaQwMwa1mLW0seycIDH2cOVSRcZY-wpS-EZXD8Rgpb78PlHYh921rwN0jWWJYCiFo4J9cKRBrl5Uq0",
+        "display_name": "Kirill Eremenko"
+      },
+      {
+        "job_title": "Helping Data Scientists Succeed",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/27129696_acc1.jpg?secure=6OMjL_f_uW1e26Xc9eFzDA%3D%3D%2C1607418626",
+        "_class": "user",
+        "title": "SuperDataScience Team",
+        "url": "/user/superdatascience-team/",
+        "initials": "ST",
+        "name": "SuperDataScience",
+        "id": 27129696,
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/27129696_acc1.jpg?secure=5lGntBvSxyvzDE7kr8mnmw%3D%3D%2C1607418626",
+        "display_name": "SuperDataScience Team"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/913448_e6e2.jpg?N1wDnTlcTyE-N6KXQOCiFu7avNNAvnAQLzR5zelQW0iy8-T9ihtpmmj_u9l6LNwzssclboGZabAfg6NCFqNii3zmFcpmfGd6diGmSTofOPLgd4RAVcd9rodunQ",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/913448_e6e2.jpg?yAQyJHrXVJB-UuDJVd-j_1Wz5naGdy4sq3AU8tTOXFkpXBwk8a41OUwyZOg6mpSe_u8yO3OmtqK0a8rWK6ooxqRh5NvVkxGeMzcIpx1mhxqHfpu2NiFpyffS00OC",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/913448_e6e2.jpg?t3L-9Y-QvXTfV0barR2Cgy40cvbOFvIqSTsrQjH2WPq6L-FTiBG4tvwIdUz1SbU6dvBmFypvwApezVpySNiS11a7U1go-u1PZfNAKx6gYD0bm_t_jmR2Hl96jN_B",
+    "published_title": "python-coding",
+    "tracking_id": "C2SNPt7_TMqzXn-pjVM55Q",
+    "headline": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
+    "num_subscribers": 120606,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.60468,
+    "avg_rating_recent": 4.61772,
+    "rating": 4.61772,
+    "num_reviews": 18531,
+    "is_wishlisted": false,
+    "num_published_lectures": 75,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/913448_e6e2.jpg?ndKkC94y_5ZTWW5I65cdUt02zdTL629Ybj8GlwAvHGRRna--Qxyf_LwfSYbiiRFGLHtwGNobOw8lZ_L5TUb1Qp8a6FEWbLJ4ec0lM7eYqQ4YjQZqI74_moIFaw",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/913448_e6e2.jpg?QAX7fykm4F80HtNx019p9JI3_jsRq9-2pFEWXVaBwjWWezNl7uwGGq02j6DOF2mz_iyPoscXQ6vuTVpfq7bwL0ayVDMiLj8_rFbaR0E4VfK9t4UNQybgU7zZgAUY",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/913448_e6e2.jpg?QxJZI2Q5aIYOOzXzNfVKpHOv7m58OhodLWqz6o8C0xZDLXl65wkNrQl_Q8Z1nVxH15PSHbTOgD8wwaUHwRWgRXE2KUT2SbLJcSGd-3OnQfTPPvIb8gL8WpwA1fql",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/913448_e6e2.jpg?qR6moFY6yJVw8T5ZvhA6Ku4VUGC4oUKBQvN8t4E6cFKPrvCZgTSt2qkRYqS8OG1foQORKubBuj-Bov_kb8C08RmbTAW0j4QEfpnyQLzHJULiozZFUNAN4cqb62gR",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "Portuguese [Auto]"
+    ],
+    "created": "2016-07-24T20:12:51Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-07-26T19:29:57Z",
+    "objectives_summary": [
+      "Learn to program in Python at a good level",
+      "Learn how to code in Jupiter Notebooks",
+      "Learn the core principles of programming"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-04",
+    "preview_url": "/course/913448/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "11 total hours",
+    "content_info_short": "11 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "title": "Python",
+        "topic_channel_url": "/topic/python/",
+        "tracking_object_type": "cl",
+        "id": 7380,
+        "url": "/topic/python/",
+        "display_name": "Python"
+      },
+      "subcategory": null,
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "tracking_object_type": "cat",
+        "title": "Development"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 860148,
+    "title": "R Programming: Advanced Analytics In R For Data Science",
+    "url": "/course/r-analytics/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Data Scientist",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/2364054_83cd_5.jpg?a_vCXmDGFaxPqNlzEJnbjDzaHQoOvR2GE1xmZElEqX1P3qzqBWM9G0iN0LW9hWXwevHy9FGjnGcFQSoyyP7PjllEuCH4E4sbOfDo_Y8ETgdnpfAm34gI7lsI_y5igw",
+        "_class": "user",
+        "title": "Kirill Eremenko",
+        "url": "/user/kirilleremenko/",
+        "initials": "KE",
+        "name": "Kirill",
+        "id": 2364054,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/2364054_83cd_5.jpg?OG_E5bU_HoL3NDcIIhnkOStN88b2qNQ066SPGndJ9VeFMQH0LJBcKZn9prXYugB-6dHrocG1PGmhoO5T8AthQi4V4Nhx0mz0aPWgc7k6MuZiozboIhOJySDkHpA",
+        "display_name": "Kirill Eremenko"
+      },
+      {
+        "job_title": "Helping Data Scientists Succeed",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27129696_acc1.jpg?dHG1s42p3cvmVDN7bMzc1IC3BVupne9QkojEEXZUb925wkcCe3UCher1ruTN3_8Fh_ozNBhy_K0xBNTSS6yUpH37nQAWS8kZKMgZxPWMbzkD2I4W1z1fINiPXqIR",
+        "_class": "user",
+        "title": "SuperDataScience Team",
+        "url": "/user/superdatascience-team/",
+        "initials": "ST",
+        "name": "SuperDataScience",
+        "id": 27129696,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27129696_acc1.jpg?8_wdrASf0oL_Cy4X1y__nmYoT_z6W5A7k6Lu4GuOypFDZ6n3IRgIaRJeDyMVQxfXf4yh4ogZUzoLw7RpXp2mvnGJ7e_JJM_G9GwDhsSOYHIphUs0i0xCV2cc6w",
+        "display_name": "SuperDataScience Team"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/860148_4f31.jpg?LfF4BeFdjQe9GjcPQL-htTjk76DYLJrQLg-gsbAQlsjmvNu9YK5_8VoCcZy-eYxOa9YncfhhbTO6DK88dObq_phz4p9G763mryoYPccfvz2ydlj_lm3YQZu3kg",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/860148_4f31.jpg?2kbTSEP3Go2Nlj-MNp3JLyXFydQrIbx1mQPIiEBYGMQNdeL1LT8yHlLHPQFmIgZtulzE8MBMWmuYayJNY_aCgBKvclbQnoMioI5U-DiIPmEZqq2TtOZDdZnTRN_7",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/860148_4f31.jpg?BkzeSvCP-sy2_F6uWlB6RMkAMVqr4OoNj7u-ccLD70CjIn5APs6hGIkkN3ShKuBa_-wgsbpZzHpghQz_N9Gcq9rutxE_HavjWiFq4vEeI5izQaO-6dwTSNxS5uqz",
+    "published_title": "r-analytics",
+    "tracking_id": "pvLOkGfMRNmmGc1u4v8Kdg",
+    "headline": "Take Your R & R Studio Skills To The Next Level. Data Analytics, Data Science, Statistical Analysis in Business, GGPlot2",
+    "num_subscribers": 46989,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      }
+    ],
+    "avg_rating": 4.65357,
+    "avg_rating_recent": 4.65487,
+    "rating": 4.65487,
+    "num_reviews": 6410,
+    "is_wishlisted": false,
+    "num_published_lectures": 53,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/860148_4f31.jpg?N2-Ukx0Ir6HbhhinCYr8oNM7w8Y3rA6k6gQvyW_uk4wI9rq22Te0OENOe4bVjbq5FC4ICO8L1Drp5x7T6r3Zc8mLdsQubhZvhVMdBGahfZTMJX6ifPH0v8Gf6A",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/860148_4f31.jpg?mmGOT12BfewhhV8QPIYpjYMR7fsVofkirwlkHWQsLcDScMMIrrBrgFbUpluwzwyCK9sndVYh7E7tFr5ua0FSwJhs9DfjHFE584D6MyqK70eEVXRptnMtUbn09SSl",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/860148_4f31.jpg?cfrG9DVFAlGpoTQCAUjM3Zxr3tt3J21gHTOK3Wkd7b6EiR49ko-RxNZNeoHCeroog4Ix8CIkUUD_t5h9UfNL41JqE1Ttd0pBMBHP1VJ6bSoAvD8C9YGOf_dZr9fj",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/860148_4f31.jpg?secure=0N1JMM2srVe32c-IniINwA%3D%3D%2C1607418626",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-05-26T00:18:45Z",
+    "instructional_level": "Intermediate Level",
+    "instructional_level_simple": "Intermediate",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-05-26T16:44:35Z",
+    "objectives_summary": [
+      "Perform Data Preparation in R",
+      "Identify missing records in dataframes",
+      "Locate missing data in your dataframes"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-04",
+    "preview_url": "/course/860148/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "6 total hours",
+    "content_info_short": "6 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "R",
+        "topic_channel_url": "/topic/r-programming-language/",
+        "tracking_object_type": "cl",
+        "id": 7432,
+        "title": "R",
+        "url": "/topic/r-programming-language/"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 713104,
+    "title": "Data Science: Deep Learning in Python",
+    "url": "/course/data-science-deep-learning-in-python/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Artificial intelligence and machine learning engineer",
+        "display_name": "Lazy Programmer Inc.",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/14266988_a969_9.jpg?okJ9cJYIICmOsM80oLpl7aXskEK--QSZrSFlWnG7QTn1tYuSpdf3maM4vBYurB1TCBXCFIEXg4YE9D54seSgP2TReCYHb3jEH7cOyc9fFiC48NrWLD10urAfqXvANH8",
+        "url": "/user/lazy-programmer/",
+        "title": "Lazy Programmer Inc.",
+        "initials": "LI",
+        "name": "Lazy Programmer",
+        "_class": "user",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/14266988_a969_9.jpg?PjI3__URFroHEFFNmTsodyxcC-LcY05zbha3rwi052rFVJHGcX1LdStvn4XNC3bTV4nHZcgEF7oxEgUkRcbIHaIJFjeNP40z85_u6ZViJdCf0Fr2YDDbnlqJXTUj",
+        "id": 14266988
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/713104_d4cb.jpg?secure=RAP1pawlS9Zc_G1GDtZbpA%3D%3D%2C1607434512",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/713104_d4cb.jpg?kixvp1QeoT16nBUxsRl1yLT820MZ9NyJqAg3NxSbjIhSaIk2DX07lIt60yfdBauBPI0cGtCEmtvuA8N9w5S16JkpkBlvpdlK6VCjndKDHG4OJMuhwI9lgo_yl4Sb",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/713104_d4cb.jpg?RrSfFFQAbmT3jETQvf3ShYTPZU62pIxKhXI8UyZpybU40mUQG5KHG8YVJJmlYBB-c8r80sVuZM7txk4OBs-TfxfgQpe-wTM3MR7Kk6Ae1wtzZT5s5J7Sf4Ggob5k",
+    "published_title": "data-science-deep-learning-in-python",
+    "tracking_id": "tju4VS_iTeab9FdduICqmA",
+    "headline": "The MOST in-depth look at neural network theory, and how to code one with pure Python and Tensorflow",
+    "num_subscribers": 44973,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      }
+    ],
+    "avg_rating": 4.55488,
+    "avg_rating_recent": 4.50944,
+    "rating": 4.50944,
+    "num_reviews": 6962,
+    "is_wishlisted": false,
+    "num_published_lectures": 89,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/713104_d4cb.jpg?p0cILPJoMdt4ibjQwXuffC0UHo8T0yEHqbiityZKbCBoH35cr0LGwOw8BRDs-N-1Bv3gw6NckXKTp_qcKVOVgj_SrJzsbfsrNhuAkANe7Ofmprj8hrmsYm8UZQ",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/713104_d4cb.jpg?rwjs5AO9odlHfTh5lG0XclGac4JS-0WTbgfbyS4SNm_TzvSn5tze0w8-_FPEOsN9DZZR5CZWBT5GplYnHfbNuj9cBVhzo5rvKh-8n8Yfo6gzdZyYoxPiXRMVjy9X",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/713104_d4cb.jpg?o1Rr8lI4V1lw58NweypQ6J2xKqShvRzTa9sbB2wRpulgGrZQD1H-T4FzvWePhKlYh0QrmPiBtA9V7KQWjkxZI7qOvRXjLAlz3WhpGQtSA2tHCgbJ6EVNHBskpzHu",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/713104_d4cb.jpg?secure=O7jWbSB4wAF9JWzEfA7rzg%3D%3D%2C1607434512",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-01-02T08:42:52Z",
+    "instructional_level": "Intermediate Level",
+    "instructional_level_simple": "Intermediate",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-01-04T18:13:17Z",
+    "objectives_summary": [
+      "Learn how Deep Learning REALLY works (not just some diagrams and magical black box code)",
+      "Learn how a neural network is built from basic building blocks (the neuron)",
+      "Code a neural network from scratch in Python and numpy"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-11-29",
+    "preview_url": "/course/713104/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "11 total hours",
+    "content_info_short": "11 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "tracking_object_type": "cl",
+        "id": 7380,
+        "title": "Python",
+        "url": "/topic/python/"
+      },
+      "subcategory": null,
+      "category": {
+        "url": "/courses/development/",
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 2511476,
+    "title": "Complete Machine Learning & Data Science Bootcamp 2021",
+    "url": "/course/complete-machine-learning-and-data-science-zero-to-mastery/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "job_title": "Senior Software Developer turned Instructor",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/38516954_b11c_3.jpg?2OHbPqElHzjYC8TwdlswOaS3Mi2_F1DfC1gVl-9juEnz3w7QoIwrJpfqbGpC0CAsIHCcVZj1ibP4rf5D76pQfT6He1ELMAs3BCk51HdclS_6IRYiZ8RH5eRN17Fz7xk",
+        "_class": "user",
+        "title": "Andrei Neagoie",
+        "url": "/user/andrei-neagoie/",
+        "initials": "AN",
+        "name": "Andrei",
+        "id": 38516954,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/38516954_b11c_3.jpg?_IZLXFkzd9pgG4GUTdhF0iVeBN3R8fkUITbkrJvRLCoJl2D72zzDzTeWm6wPrZ--d94pag8JzoOL3azGycF0Op5YCxGcZXfRYmXEakrZBTvPSIKYrCNJbTxKzBPe",
+        "display_name": "Andrei Neagoie"
+      },
+      {
+        "job_title": "Machine Learning Engineer/Writer/Video maker",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/79584910_daa6_3.jpg?secure=ehKFnkBNgw6Ctr5WjbsPow%3D%3D%2C1607418626",
+        "_class": "user",
+        "title": "Daniel Bourke",
+        "url": "/user/daniel-bourke-52/",
+        "initials": "DB",
+        "name": "Daniel",
+        "id": 79584910,
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/79584910_daa6_3.jpg?B5GKrvz2zFY8XaI2ty3e1fV1rp5vaRstMNuWcS5Duq-JwhiRJqAdAaKkKUAez4Fnc2cgZAOylqWmZ2lgIbzsuG30a2UL3Jqkh3YKbf_l8FhGM3JrOutb8UEfGTfb",
+        "display_name": "Daniel Bourke"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/2511476_4e38_5.jpg?91AI9Ju_NKO3t931KFU7dX5rVJrlxSwVOn2gryUb7s1436RUZpJj-F-0C1fccKgRlO2JJPgGTXwZAv2-yQvTVY9WYowN8nPbWood8pjBNBs5l02NNqxyzoEGAoN0CA",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/2511476_4e38_5.jpg?eoEXvfCokYyyjkpoYjyYjuVTDrGp4mAzncE5-9wb7c3BR-73J34o-3ACna0C9KaQQ6Ze22rS4PT66ZIiTGIg1j1OTesHcclB_mjtwt6OzAsIl9ArOOfIepr3XAobrrur",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/2511476_4e38_5.jpg?Nbbz241gwefHfcbXbzrYSYctT5PJLVRYGSw61pWOt90educYbsZYmbymV5-mClfAb_MwtLCrDjRJYhrd2jD7L9-agLBklKrN-DI3S2Rx-BADK9yFgrjzsM2_8tI8YEM-",
+    "published_title": "complete-machine-learning-and-data-science-zero-to-mastery",
+    "tracking_id": "JPUQipvtRkq_1G4CsKszYg",
+    "headline": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!",
+    "num_subscribers": 34024,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.63083,
+    "avg_rating_recent": 4.61932,
+    "rating": 4.61932,
+    "num_reviews": 5616,
+    "is_wishlisted": false,
+    "num_published_lectures": 371,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/2511476_4e38_5.jpg?secure=o8FIRdYXLmqO1QgKllyKcQ%3D%3D%2C1607418626",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/2511476_4e38_5.jpg?mvDTYtheodk4wn2MOwFQCxQSOIY9Bf6mJ8TDHbqciu5ZOV6QzSKy_ygC87oZS1tDZqOc09B5lW4o-KWIg15xKpXkFBOpA7Cgn9bjinP7t4G2zLNtUXmwwV8FJukAJ2WI",
+    "image_304x171": "https://img-b.udemycdn.com/course/304x171/2511476_4e38_5.jpg?secure=t5PJLUxYLBS2s0Rpu47peQ%3D%3D%2C1607418626",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/2511476_4e38_5.jpg?d06SbWN5v_qCG2AcPn3Y5gBLyZxmUWSS4RlNxgxoLe1nFPM7_L3BWoEVJaey8ypkBs16Nqrx-x2rT8Fnz5VN26wevZx1yhHLpuKUCmXmEkPordWjd3e-ZCNzIvF4Bdj7",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]"
+    ],
+    "created": "2019-08-15T22:31:35Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2020-01-16T15:16:27Z",
+    "objectives_summary": [
+      "Become a Data Scientist and get hired",
+      "Master Machine Learning and use it on the job",
+      "Deep Learning, Transfer Learning and Neural Networks using the latest Tensorflow 2.0"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-01",
+    "preview_url": "/course/2511476/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "43 total hours",
+    "content_info_short": "43 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "label": {
+        "topic_channel_url": "/topic/data-science/",
+        "display_name": "Data Science",
+        "url": "/topic/data-science/",
+        "id": 5336,
+        "title": "Data Science",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null,
+      "category": {
+        "id": 288,
+        "title": "Development",
+        "tracking_object_type": "cat",
+        "url": "/courses/development/"
+      }
+    }
+  }
+]

@@ -1,0 +1,1936 @@
+[
+  {
+    "_class": "course",
+    "id": 567828,
+    "title": "2020 Complete Python Bootcamp From Zero to Hero in Python",
+    "url": "/course/complete-python-bootcamp/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Jose Portilla",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9685726_67e7_4.jpg?JN-D2gFHBmmjkbSRYnlK97-L5FT8gf1gRtqjo82zG4VSQfDZO3Hcv3PTG8yVFEUs4LKALCNLaesC9LWP8Hnx68UMzGfFn1NCBb_n7BxkRZ4o9bCrvq-XTJlU1f4",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?UxER2EVfEx0yIQMGjvRmab8HbQEyWkaj2mc5qjzA9LY4QdTds9JQfmunwpLL6hPav4bPYz-T-W3rN_fbpjZvadbVInlfJ9qSV4F4GhW-T6Hz3nkl7IFlBqNZOZn2lA",
+        "url": "/user/joseportilla/",
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "title": "Jose Portilla",
+        "_class": "user",
+        "name": "Jose",
+        "id": 9685726,
+        "initials": "JP"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/567828_67d0.jpg?5uKqnvM-9-uj7GkNWBfc0y629RLmB90g4enBkRh4kbYbV9yfMGGALvu84jk7IXyIBczORAXiP0K9rZzpieX7u6u3_oZnAatrTnT197vxzQ1fI7vSOvSvLwlPfw",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/567828_67d0.jpg?uH61ooET43x5UIUTJiLN-5zNsurj2fVNZtJPMA8evY0XGgLR6JW71aBT6opToAVGTKzMeVrSUJ1UQ9e2N4OzUI_sCGdDdAmneimf2p9K-NdsnYwATkELz3t83kbj",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/567828_67d0.jpg?6TmJaYLy8abQRukDtYfQZYdH480AeAt2q8VUNF_mr4iHKXHR4T4smfaWigf2SwneGJanxVqyq3KtOJJsfBad_RdRMnuwbFfBK6jVXGIrqysJ-7dNmup9TplfJQur",
+    "published_title": "complete-python-bootcamp",
+    "tracking_id": "zm7YQUKBQUueydD3bfUvug",
+    "headline": "Learn Python like a Professional  Start from the basics and go all the way to creating your own applications and games",
+    "num_subscribers": 1164876,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.57345,
+    "avg_rating_recent": 4.57311,
+    "rating": 4.57311,
+    "num_reviews": 332074,
+    "is_wishlisted": false,
+    "num_published_lectures": 152,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/567828_67d0.jpg?secure=MfGv7R9tSxd64uDRifBOFQ%3D%3D%2C1607428899",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/567828_67d0.jpg?1UxNuyBzNcIDDNegSzVybWbS2lvl40jWJRFcFJNz8wR0xbkr9p8VBYzVc-GPTLw4_ecwpQXjt6j5b1KDa6Dp8uITv4apzf8EWqlvOTs-P0K9WS2bx9NWD0Q2QK0Q",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/567828_67d0.jpg?elQFcUv0phWzQbx0cFiuveEtWtjbr3K0BF3ZuNNjFU2gR4Aft69ev1ARasVaXCgk1GIfr7HbThQnOE7PwMDnz7US9yx2_3uYknojqVw-76zBZ4Zo2e6Z2ysfrCBr",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/567828_67d0.jpg?WMaLo6jCF32bAXipzbaf6yd0FcEKThFyh4N4LIRFbKTnj2BiVauPAO30somDvB9Yr9cu4YLQ_7acX8G_rgq6KKJbBi-KpN3WjMeIqH8bk2ZVqQZImGqgoDDO7adL",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "_class": "locale",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2015-07-29T00:12:23Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2015-10-12T21:42:53Z",
+    "objectives_summary": [
+      "Learn to use Python professionally, learning both Python 2 and Python 3!",
+      "Create games with Python, like Tic Tac Toe and Blackjack!",
+      "Learn advanced Python features, like the collections module and how to work with timestamps!"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-06-26",
+    "preview_url": "/course/567828/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "21.5 total hours",
+    "content_info_short": "21.5 hours",
+    "bestseller_badge_content": {
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "id": 288,
+          "url": "/courses/development/",
+          "title": "Development",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Python",
+          "topic_channel_url": "/topic/python/",
+          "id": 7380,
+          "url": "/topic/python/",
+          "title": "Python",
+          "tracking_object_type": "cl"
+        }
+      },
+      "id": "1f0aca2a35604c6897881a5b58bd5299"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "1f0aca2a35604c6897881a5b58bd5299",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "id": 288,
+            "url": "/courses/development/",
+            "title": "Development",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Python",
+            "topic_channel_url": "/topic/python/",
+            "id": 7380,
+            "url": "/topic/python/",
+            "title": "Python",
+            "tracking_object_type": "cl"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 950390,
+    "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "url": "/course/machinelearning/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Kirill Eremenko",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/2364054_83cd_5.jpg?secure=NUDdlAGaFCIl0kQwqYrspA%3D%3D%2C1607428899",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/2364054_83cd_5.jpg?JeBeBxd1p4t2XgjEQVYTIOLW0cEtAvk-FFrC6tLf0eqSwToR14Vs0yh9nX7_w3ODFKCNpyX0jrrtVrdQzC2Pf-Dzr7E-IlsQozCkWwPFGbWhs1xDeiiJOvAfy_CQgA",
+        "url": "/user/kirilleremenko/",
+        "job_title": "Data Scientist",
+        "title": "Kirill Eremenko",
+        "_class": "user",
+        "name": "Kirill",
+        "id": 2364054,
+        "initials": "KE"
+      },
+      {
+        "display_name": "Hadelin de Ponteves",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/22113450_6fb5_3.jpg?secure=pCAIqR3HTFRwOat9cndWTQ%3D%3D%2C1607428899",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/22113450_6fb5_3.jpg?t3rHWlAHOcVk_fZpcbF1a0E2Tyl9naQeb4bdxtoXyELWf-sBTyDuQ3j2nHsy39gWboeNiA4MGWgYcQpMNdBncGxkRUNWT_M9i9HgSl2tZETxJ0bnTbUYiR7SLgRWbU0",
+        "url": "/user/hadelin-de-ponteves/",
+        "job_title": "AI Entrepreneur",
+        "title": "Hadelin de Ponteves",
+        "_class": "user",
+        "name": "Hadelin",
+        "id": 22113450,
+        "initials": "HD"
+      },
+      {
+        "display_name": "SuperDataScience Team",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/27129696_acc1.jpg?pw_nW3S0X-4kxbj-csKlsidpRtrjc1IHHg008X6kuZH8dWI1yzptyPXzW_CwwxBjQ-e9CBaf35_o9bZKEvEIM-AGZjLh2NQ41ria16bPV151hbWmLL5Ll72qhg",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/27129696_acc1.jpg?0U4LDzoxaxq5HHmP1TdxjknTtyEnCEPin2wqQx7O_aGq7E0feRRs1N_dmESqcgChkMNcGlUxCJgIBCWYX98V3KfuUCQYENnHwD7gFAO3tDTeclSZHqRjjmLHhYn1",
+        "url": "/user/superdatascience-team/",
+        "job_title": "Helping Data Scientists Succeed",
+        "title": "SuperDataScience Team",
+        "_class": "user",
+        "name": "SuperDataScience",
+        "id": 27129696,
+        "initials": "ST"
+      },
+      {
+        "display_name": "SuperDataScience Support",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/49643366_0fa3.jpg?GtbSpahEYBZ-lhuLfmKkaqyOPMiLsM0VG0s6Qp9LL9tVq_F-Mu1H4JaFOcBCZP-WRPiSnq0zAm_89oKsk-cOS32mVQ_p5hFczqWTm8pK8ftYbYZDPfGsHrZUsQ",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/49643366_0fa3.jpg?ROVLOj_ZURtKkDUgCtPaLmXepUh9f7fWUwPiullMG7WAzSk5YoPX9M5y1W2fI7cbF5lBs4MasbtHKUe7t0VizxfZFtmg8Ar773OsKt6SGsdCeLYU6W0_fHao40J3",
+        "url": "/user/superdatascience-support/",
+        "job_title": "Answering All Your Questions",
+        "title": "SuperDataScience Support",
+        "_class": "user",
+        "name": "SuperDataScience",
+        "id": 49643366,
+        "initials": "SS"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/950390_270f_3.jpg?t4_0erhwT-ttM42FwsEJXkgT2nXnMC2oMKXBCvB5eHEzSyYbn6JdoJHwl8lfVKEw8HL9zfJoVLcgJKh4es861smzvt5IMhl6N3HifxUvz0qJu2omLkegOAY3dYSY",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/950390_270f_3.jpg?JvxlR6rYPp8-qZ_bIr2WGkB5WabGmk60obSihMq2Z2iD-ekG76fGe6lq4Vf5Zcb_BOCzmXO6HsmleOKU2WoZaurG2k3yi6FeGJMYjGLfA7QnCfV37EkvXgIK2LBrUSk",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/950390_270f_3.jpg?IBcihc36TcSZ8VXFBWaQF4Ie0fqgm47GKAhAk50exev-bmeqjuWPMus9ZWhKGa0mwof8HWIAAs1FUJKPIwJnrHmYsfLHAj7vJcZqJpIx_VgeUfiXeTBAJ-w-yCY9arM",
+    "published_title": "machinelearning",
+    "tracking_id": "Fu9UiCSHQSmC7brLLJ7mNQ",
+    "headline": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+    "num_subscribers": 721254,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.5282,
+    "avg_rating_recent": 4.52622,
+    "rating": 4.52622,
+    "num_reviews": 136385,
+    "is_wishlisted": false,
+    "num_published_lectures": 322,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/950390_270f_3.jpg?secure=gCY0dOThgfaj2qWP6mbCuA%3D%3D%2C1607428899",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/950390_270f_3.jpg?mJosWUyQFu6wt9C-pWucA4M16TcPonvsxJFgFovbPmTpkgiTYmP5KD_7jD2xoZ0BU8Q4o_cgqIdLOcFuYA88kI_hEphTjgenUeGjvDR8T85WtXa--w_xX8tPR3jPq1A",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/950390_270f_3.jpg?iEUV8bRb-3dqerZquKuAYMFs3r4C0XiKAO3sqZGw0UrHdPtwlAKmS9OCW9M5lLMf1VWiBvxW8DmA8alpItu5lJZDRpnQbP5De81OVPfq3PDje4tMHh5ej4TpLtMeRww",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/950390_270f_3.jpg?6sR2OclLV5BgnFnXweSji-HdGiVt1tLxV1hPs0Jt8moK8OsfZdHUeGp9ho-EAFB94wp9tplP93V5abylf4EjfpJ26BFu4tzDLtPAAtP9cov4IQs9x5LzxI3CZx4QTN0",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "_class": "locale",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Italian [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-09-05T09:54:22Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-09-13T21:43:44Z",
+    "objectives_summary": [
+      "Master Machine Learning on Python & R",
+      "Have a great intuition of many Machine Learning models",
+      "Make accurate predictions"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-04",
+    "preview_url": "/course/950390/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "44.5 total hours",
+    "content_info_short": "44.5 hours",
+    "bestseller_badge_content": {
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "id": 288,
+          "url": "/courses/development/",
+          "title": "Development",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Data Science",
+          "topic_channel_url": "/topic/data-science/",
+          "id": 5336,
+          "url": "/topic/data-science/",
+          "title": "Data Science",
+          "tracking_object_type": "cl"
+        }
+      },
+      "id": "b527fbeb786047b5b79d60b654032d70"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "b527fbeb786047b5b79d60b654032d70",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "id": 288,
+            "url": "/courses/development/",
+            "title": "Development",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Data Science",
+            "topic_channel_url": "/topic/data-science/",
+            "id": 5336,
+            "url": "/topic/data-science/",
+            "title": "Data Science",
+            "tracking_object_type": "cl"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 903744,
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "url": "/course/python-for-data-science-and-machine-learning-bootcamp/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Jose Portilla",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9685726_67e7_4.jpg?UdfxnKEXOAcv_fPQibsW1aQSafuqADM4YAKr7QsgdDteTLuBwV3Bqf7iB630EmoZ3m8yF0FOHn3nx7KrEScXxax0jYYYjvvHEuXieCijz3LsWp8ZrQGp_r6o7wM",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?0H25vnQuqVEXSo_zbnhbjyCYuFHHFSAzi1k_28L-vl97XJbSBYxV9v525vFC4ZzX0Anm3jeZkhcK1UzXo9-nJRqEHS6GAoo-ult1RSoU5FHuR693rsDDpGJigGCxJw",
+        "url": "/user/joseportilla/",
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "title": "Jose Portilla",
+        "_class": "user",
+        "name": "Jose",
+        "id": 9685726,
+        "initials": "JP"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/903744_8eb2.jpg?secure=f92I4hB28GlwruFaUqXj9g%3D%3D%2C1607418626",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg?secure=7N7Zl-g1ZWjSILsMNsYZLg%3D%3D%2C1607418626",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/903744_8eb2.jpg?5P78V0TZXqWzAmhmSFu_mKzMKVUu72WjrwjFZgpenScJvebgAdjf2FSiJOs7UZx6bAQz4AK-GXRvfXl9heUle5c2jESCBDwZeRdSk-465_4udB65Gs7W7cBzTsKg",
+    "published_title": "python-for-data-science-and-machine-learning-bootcamp",
+    "tracking_id": "Om23EuLpSU2V5MyD3cdsVA",
+    "headline": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+    "num_subscribers": 408733,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      }
+    ],
+    "avg_rating": 4.60329,
+    "avg_rating_recent": 4.60927,
+    "rating": 4.60927,
+    "num_reviews": 91344,
+    "is_wishlisted": false,
+    "num_published_lectures": 165,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/903744_8eb2.jpg?secure=l2eRJwAdYJFsZ7ebt1WCEg%3D%3D%2C1607418626",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/903744_8eb2.jpg?anpQBLHCOSfD8KLLZDerijKRCBK5Z2KjApgmyfdQe3flVlW1qYfUpw8_oqaOkezY7OhmE0Wv_2F8lrLGhcOQw6FSOIw9SX0Yv8gKcVu-BLHGzYoD5u6SVOjPhsw2",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/903744_8eb2.jpg?V6_Egwt0XAD81fl6NDD9GAfJLbOdREBEEPurDACd5iluzp3FTVXcVJqPda36ZrEMb3KK17Yp52jhHdB7BeAblc7IUvHEmzHh2-XRCljDJQK41Eh5TrmCCFRhy0M8",
+    "image_750x422": "https://img-b.udemycdn.com/course/750x422/903744_8eb2.jpg?secure=-wAdEjmy0KxyydQJ-yoobg%3D%3D%2C1607418626",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "english_title": "English (US)",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-07-13T05:22:58Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-09-18T17:36:23Z",
+    "objectives_summary": [
+      "Use Python for Data Science and Machine Learning",
+      "Use Spark for Big Data Analysis",
+      "Implement Machine Learning Algorithms"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-05-03",
+    "preview_url": "/course/903744/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "25 total hours",
+    "content_info_short": "25 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 629302,
+    "title": "Learn Python Programming Masterclass",
+    "url": "/course/python-the-complete-python-developer-course/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Tim Buchalka",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/599932_71aa_5.jpg?sBX1sQJsZfPpk1zmrI2FeypuLVDYVytRWNHJGImII0p_AF8WuUEQg5TA87whIAX8-cSftPAzLcdhAUrxYU4fYsZc2jVxrJV_OSr9zdj-qd-2y3AnCT45fcspCg",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/599932_71aa_5.jpg?0LzMGAdogoIIHeXF0EC6SC1D2EGKJ7ou3F4m2HSqUR0lVzfaYR-n-fqn7o5uQ2Kkp8XzZ3-xqFJ0W270xnYioX_dQok63_VCZrqipxdx-RU3hQjs7PL2JvJ9Qb2n",
+        "url": "/user/timbuchalka/",
+        "job_title": "Java Python Android and C# Expert Developer - 841K+ students",
+        "title": "Tim Buchalka",
+        "_class": "user",
+        "name": "Tim",
+        "id": 599932,
+        "initials": "TB"
+      },
+      {
+        "display_name": "Jean-Paul Roberts",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/11566988_f5b1_2.jpg?secure=T1A0tQamjClTstPvnZwrJw%3D%3D%2C1607428899",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/11566988_f5b1_2.jpg?1Bbd3H_UOVkZJGgU0Kqt5F3UHAAsqCZhm6dO_HhpqEwpSdndkMh787IOMHVhKtEudQEoprRmPrUoyPHMXiXGA7JJX_dAhxnRTj9sxcofFlxgsiEz0a9Qk1r0bLYq0CM",
+        "url": "/user/jeanpaulroberts/",
+        "job_title": "Computer programmer, analyst and teacher",
+        "title": "Jean-Paul Roberts",
+        "_class": "user",
+        "name": "Jean-Paul",
+        "id": 11566988,
+        "initials": "JR"
+      },
+      {
+        "display_name": "Tim Buchalka's Learn Programming Academy",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/35101150_6f0c_4.jpg?secure=9bWdIN0Ij_nbVT7Hka8Lww%3D%3D%2C1607428899",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/35101150_6f0c_4.jpg?secure=ML7UxJvmnjqk66EwUbUOig%3D%3D%2C1607428899",
+        "url": "/user/learn-programming-academy/",
+        "job_title": "Professional Programmers and Teachers - 1M+ students",
+        "title": "Tim Buchalka's Learn Programming Academy",
+        "_class": "user",
+        "name": "Tim Buchalka's Learn",
+        "id": 35101150,
+        "initials": "TP"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/629302_8a2d_2.jpg?secure=HH_rpKkzPGZa5Euf0bbn4w%3D%3D%2C1607428899",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/629302_8a2d_2.jpg?GYQEaDk0Bl0Vpu9IPT5MjHjGzysr9zxto_DA10-Dflm1JS81q0mnAjy_8YKZPpeJ0l4HtwePoK-s4WgtY6g4s0SC5wIdSIAL7bdMxxcH8fHDiRiu2UBsVIBzrCxhNG8",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/629302_8a2d_2.jpg?5yeBcU8mDz-TbAhKqmx1PjWWauJLYh2qoGwxTyQhOc4jWhz-UTIQZZhU_KaHljjVS7mCWNo6Uc4fDluFVCNT4efeU28C48sD6_5gzAaaS0HFTcQ4F7l3ELVWn5f2zw0",
+    "published_title": "python-the-complete-python-developer-course",
+    "tracking_id": "PpEHYxcURy6FKu2fMfmgaA",
+    "headline": "This Python For Beginners Course Teaches You The Python Language  Fast.  Includes Python Online Training With Python 3",
+    "num_subscribers": 262559,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      }
+    ],
+    "avg_rating": 4.54164,
+    "avg_rating_recent": 4.54537,
+    "rating": 4.54537,
+    "num_reviews": 63640,
+    "is_wishlisted": false,
+    "num_published_lectures": 425,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/629302_8a2d_2.jpg?secure=LNyTifVkK0GbfYwijhXkug%3D%3D%2C1607428899",
+    "image_100x100": "https://img-b.udemycdn.com/course/100x100/629302_8a2d_2.jpg?secure=mSBxont9Vej2nHpusY9TDA%3D%3D%2C1607428899",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/629302_8a2d_2.jpg?JLyA4b6qmmi6ENgMCKS-iKVH7rx9QmoyFAjWo5XfzQcr2ekBUShenAxegufG1aXJb8KKcLlr-ik_-rzIOhW43tufqZq-52BsGKTeveja40_csRixQcgSJ1vLRwMZ7tE",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/629302_8a2d_2.jpg?FxKzBUYUY9_QVlS7dwRRewsViR0yKiXCqwmh798eNi2iChbezK92KRAkJM4tjvqfA3EUJIUkA-E9KFJxtpkKtxaJMOlZ3xlT51utJ8cUc6VgT4-N2VzpV2ayc572G7Q",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "_class": "locale",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "Italian [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2015-10-03T01:45:17Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2015-11-06T18:04:11Z",
+    "objectives_summary": [
+      "Have a fundamental understanding of the Python programming language.",
+      "Have the skills and understanding of Python to confidently apply for Python programming jobs.",
+      "Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science,  etc.."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-02",
+    "preview_url": "/course/629302/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "60 total hours",
+    "content_info_short": "60 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {},
+  {
+    "_class": "course",
+    "id": 396876,
+    "title": "Learning Python for Data Analysis and Visualization",
+    "url": "/course/learning-python-for-data-analysis-and-visualization/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Jose Portilla",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/9685726_67e7_4.jpg?secure=80RXHiHkUKA5vANbllEEpw%3D%3D%2C1607434969",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?N6gTw4PVL6VpEP_dAmXS7s2TyfQ4OrROEdwtfBjcpSmhPEIvF_VCcE23TOSlSXfZHq7fR9MMs1gtqNVxWcvDwwmTmzHooILwN6kQW6eUY3J1Wp3YokRxIOQB-f-x7Q",
+        "url": "/user/joseportilla/",
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "title": "Jose Portilla",
+        "_class": "user",
+        "name": "Jose",
+        "id": 9685726,
+        "initials": "JP"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/396876_cc92_7.jpg?secure=ZEIpuPtXIttDBFkalFcaJg%3D%3D%2C1607434969",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/396876_cc92_7.jpg?secure=hz-kLCGgKKpBWUKoG4qXJg%3D%3D%2C1607434969",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-b.udemycdn.com/course/480x270/396876_cc92_7.jpg?secure=KSDi7VmcYtNDtL3SXKC79w%3D%3D%2C1607434969",
+    "published_title": "learning-python-for-data-analysis-and-visualization",
+    "tracking_id": "D5NyjwoRR3WrIqZsF1__6A",
+    "headline": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+    "num_subscribers": 163439,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "ja_JP",
+        "title": "日本語",
+        "english_title": "Japanese"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.35362,
+    "avg_rating_recent": 4.35339,
+    "rating": 4.35339,
+    "num_reviews": 15358,
+    "is_wishlisted": false,
+    "num_published_lectures": 110,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/396876_cc92_7.jpg?jiLxUbbUsURZIc2QKHeakMIipokCoYnRz_kospae75M8hKI3r3gkw13J-HgYNbMYh4f4BowJxrlJiRAoACy542COor3IhFbtNH4qmNCNP3-IA4E6FYoLkDWY420i",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/396876_cc92_7.jpg?Bhz2N_ZjOTVHz56u1aie-JRJwQ565X-unJEXZabzEmpnpaXp-f23YSMnFQgi7hayvYzhlw8PFo2bBbe5FfCOTMcNZIYxbBnHh3f2773iSN6nRsW_bZrKBOnrQMqLo1Y",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/396876_cc92_7.jpg?k-sm4WicspO8KR1XLj9Dy1G-DpVIvzeSrN6e0cILq64uD0WdcbNMgb3KNVzT9GeOxklZNS2yTlktwd9_bBKkVGz5cD4JpRXhVaG-ccRGFjANII8CwjSR7IT4AHEVWCk",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/396876_cc92_7.jpg?rbgJpvEvdwukVT1FxAwjZ6JgyxfTrMaAl1ncvDb1ZKKAxSHiyDseU0Oi7qTnAUcWtlKOO95-EfpwVYj8WEO9PLoDDUMdPl0kwugOsH-FYCOAy6sd-EG5h1RtZFWhIBs",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "_class": "locale",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Japanese [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2015-01-18T00:43:49Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2015-03-09T19:22:07Z",
+    "objectives_summary": [
+      "Have an intermediate skill level of Python programming.",
+      "Use the Jupyter Notebook Environment.",
+      "Use the numpy library to create and manipulate arrays."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2019-09-04",
+    "preview_url": "/course/396876/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "21 total hours",
+    "content_info_short": "21 hours",
+    "bestseller_badge_content": {
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "id": 288,
+          "url": "/courses/development/",
+          "title": "Development",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Data Visualization",
+          "topic_channel_url": "/topic/data-visualization/",
+          "id": 5344,
+          "url": "/topic/data-visualization/",
+          "title": "Data Visualization",
+          "tracking_object_type": "cl"
+        }
+      },
+      "id": "0bfd6bcb7aa741e7a86962ffd2e60321"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "0bfd6bcb7aa741e7a86962ffd2e60321",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "id": 288,
+            "url": "/courses/development/",
+            "title": "Development",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Data Visualization",
+            "topic_channel_url": "/topic/data-visualization/",
+            "id": 5344,
+            "url": "/topic/data-visualization/",
+            "title": "Data Visualization",
+            "tracking_object_type": "cl"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 543600,
+    "title": "Automate the Boring Stuff with Python Programming",
+    "url": "/course/automate/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Al Sweigart",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/13922584_4ff5_2.jpg?Wb8tUHtT44dyKkfUNPuH4FbKmvNM-qsbHo45vOR6eCyuzBUKcKjFMvO2AcVHkgnXMGeuo6yKjcy7EbpN1kJ6pwGR46oIEfpAKM4w8DK16Rf6KbcTNfO81k7EaZsP",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/13922584_4ff5_2.jpg?M0ZWuRgMNAox_UI1bRUUwOoKeEpy8yoOb8Srn17lpEM-NStGVoGUl0ASol0rio25ABOkZ14BjXAg0B_0r1jErMti2xgYCtAZQRU-Xh1-n7WFj7P1Nsp5L1Qqg5ktLEo",
+        "url": "/user/al-sweigart/",
+        "job_title": "Software developer, tech book author",
+        "title": "Al Sweigart",
+        "_class": "user",
+        "name": "Al",
+        "id": 13922584,
+        "initials": "AS"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/543600_64d1_4.jpg?92ToQUXwuaWGhXaAgGgF9WHJ4PHuswjuKL4dfbQYO5mTEsJUs02ney2tgXNhs7l3i026FdCxkOKokGWjA_bkgiCz9PpunN18HGKop-16eZeYTMyrPAdCIyC08b33",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/543600_64d1_4.jpg?bQnjeJKfOzXCGsd7Kx5WKHTJMnNTuHEI5AF6R1piwq3POsVB1AY2K-RNvCB1GtcsZbeAoYAusWVuIOuCgQMuHs57YSuHHOaIv11D3QP8z7K27FgWfgTcQ3IkkC3tw4w",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-b.udemycdn.com/course/480x270/543600_64d1_4.jpg?secure=cIzhWirRcTZxLLwHu_p0Hg%3D%3D%2C1607435092",
+    "published_title": "automate",
+    "tracking_id": "WpAwJRVSQLWbQ5DIgzOwIw",
+    "headline": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.",
+    "num_subscribers": 768191,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "ja_JP",
+        "title": "日本語",
+        "english_title": "Japanese"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.61142,
+    "avg_rating_recent": 4.61263,
+    "rating": 4.61263,
+    "num_reviews": 75731,
+    "is_wishlisted": false,
+    "num_published_lectures": 51,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/543600_64d1_4.jpg?AsiIWI9Pou88K3Hb8TZrBxlHOba16YZ_TjJNjR3nznZznE2BGDLbN6-GNIgi-FfLKT8YO9P3t5DJzTR7cEXuBFU9yOe6LcT08LmqsPdvFAmrjU3PEAH-j-CLRW3d",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/543600_64d1_4.jpg?g6gEszl-v16_LSDIT3CFWD6Nr5aafFFQ0YoufqYzy4Z4t6kyNMtZqqMFT_As9EG0NBRL4Jv6TisM5MScdCLbENzHZZGK_bTz2SrfpHtm3EDpQI8iz6JIIiKzAa8aixM",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/543600_64d1_4.jpg?OMtEPnHu4bLpiH2qBcsmUyiTLIHO6pH8hha1jafPZS0P_5fgmA5Yiwqw79RKV-3jlHi-adCc10tN_9nyLYvFNViiMPqtjLs18P5N5noIO-ztaOZJTpI0MgkIp0gTUqI",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/543600_64d1_4.jpg?2D71DxQ8E0s6_uXLUIxvlmPp0rS_jWY7GO42NPJLwcnv6ypPyvWNiYPEa0upvdWrPHWoQHasNgz2EhaHHtmNrEc63c3phoIrg-eGtg50SGmiJzKZEjnDB59kQP2z33U",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "_class": "locale",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Japanese [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2015-07-02T23:31:01Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2015-09-21T21:10:01Z",
+    "objectives_summary": [
+      "Automate tasks on their computer by writing simple Python programs.",
+      "Write programs that can do text pattern recognition with \"regular expressions\".",
+      "Programmatically generate and update Excel spreadsheets."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-04-01",
+    "preview_url": "/course/543600/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "9.5 total hours",
+    "content_info_short": "9.5 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "label": {
+        "display_name": "Python",
+        "id": 7380,
+        "topic_channel_url": "/topic/python/",
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null
+    }
+  },
+  {
+    "_class": "course",
+    "id": 822444,
+    "title": "Python and Django Full Stack Web Developer Bootcamp",
+    "url": "/course/python-and-django-full-stack-web-developer-bootcamp/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Jose Portilla",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9685726_67e7_4.jpg?eZpmIxr1_VLstdeSwOuT7L190l4eXkbSENKWcM8_Rt1j6pwMbczy7xxCsCznf6UIaJzP9O5YTmdEnejzMfpEjNz1fprUPZUcq2duGcMgDbLfzHaGSOow82gKviQ",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?10bco_hE_kqeEEH_g-Zvfoq37is0KVNEB3n1i2n1Z10bOD0C9WzmmXNp3_PyVxoCxOQ-3rXZ2iETEmDO246KR9rZD1N20DTi9n1Pxke5pXNX1zmVdhGVzfB2ZkJeHA",
+        "url": "/user/joseportilla/",
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "title": "Jose Portilla",
+        "_class": "user",
+        "name": "Jose",
+        "id": 9685726,
+        "initials": "JP"
+      }
+    ],
+    "image_125_H": "https://img-b.udemycdn.com/course/125_H/822444_a6db.jpg?secure=vqROjdctDCPDunxnllWPQA%3D%3D%2C1607420378",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/822444_a6db.jpg?Ii4BKy4gTD1ERIU24I7PMftCVzisKfWV_KTPfUUcuKNvw3VQZ5BnBDu0aM1CnFTbkQcRlUP17B2SYre_4ZOk8n5GkTl4wBB_3gZm-G-1FEY7XERHFs6ugZFFWUBF",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/822444_a6db.jpg?Xg4XtEgPwOuh5wt1njH_kxiaFI46Cf_VzI3Hym3wp5AUu8pQsnIJePmZd3eWeWCWkuhSflRkKTBbbv3wk686e2WJuRYdZnTFQZW0CQ2kywTd3BzgiO5tfCg0C44e",
+    "published_title": "python-and-django-full-stack-web-developer-bootcamp",
+    "tracking_id": "fzWDKOYoTv6lNRHocWuGKA",
+    "headline": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+    "num_subscribers": 137883,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ja_JP",
+        "title": "日本語",
+        "english_title": "Japanese"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "tr_TR",
+        "title": "Türkçe",
+        "english_title": "Turkish"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      }
+    ],
+    "avg_rating": 4.53969,
+    "avg_rating_recent": 4.55015,
+    "rating": 4.55015,
+    "num_reviews": 35293,
+    "is_wishlisted": false,
+    "num_published_lectures": 198,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-b.udemycdn.com/course/50x50/822444_a6db.jpg?secure=FxVP3s40EEhAtsKrK6KtcA%3D%3D%2C1607420378",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/822444_a6db.jpg?YAZPuBhYieOSXJbVa9TAFVhOfVaLBVH1Dpg_4pqgyHoCvmLnwXEtBj6MQswr_A8aOltHM8Lxzr2BRxOG-txaqvhD4KAYU9oV4xtBJVtd9QdqNkWn8L-X_Arif0fV",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/822444_a6db.jpg?8l9YPthQJYoo-CN3dxxRFI7aLgCac4X9zBGT9d0YMqfTjZ6rOFkPZWMM4p5mPJaJdtZIX8A42Lv-uB0wP6ieCFUnX2ai3uKIlD3smSYWShkiEKxg0yOP8ystbFip",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/822444_a6db.jpg?9X68wYycOzJWx5AbalaYp4t7mzVlPk46zzFB6IO_UUxnfXJx7QXkgKA2oiP2VeNCUcs4Wi4V8TmgCNr2nggcBpMf1tVmOJkW9H0mia81SiCFu_0FLOrp7nnH3KO5",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "_class": "locale"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Japanese [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]",
+      "Turkish [Auto]"
+    ],
+    "created": "2016-04-15T03:19:00Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-02-24T18:40:55Z",
+    "objectives_summary": [
+      "Create a fully functional web site using the Full-Stack with Django 1.11",
+      "Learn how to use HTML to create website content",
+      "Use CSS to create beautifully styled sites"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2019-09-04",
+    "preview_url": "/course/822444/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "32 total hours",
+    "content_info_short": "32 hours",
+    "bestseller_badge_content": {
+      "badge_text": "Bestseller",
+      "id": "97128f15d07c401eab879702e94487db",
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "id": 288,
+          "url": "/courses/development/",
+          "title": "Development",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Django",
+          "topic_channel_url": "/topic/django/",
+          "id": 5464,
+          "url": "/topic/django/",
+          "title": "Django",
+          "tracking_object_type": "cl"
+        }
+      },
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "97128f15d07c401eab879702e94487db",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "id": 288,
+            "url": "/courses/development/",
+            "title": "Development",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Django",
+            "topic_channel_url": "/topic/django/",
+            "id": 5464,
+            "url": "/topic/django/",
+            "title": "Django",
+            "tracking_object_type": "cl"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Django",
+        "topic_channel_url": "/topic/django/",
+        "id": 5464,
+        "url": "/topic/django/",
+        "title": "Django",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1212032,
+    "title": "Python for Financial Analysis and Algorithmic Trading",
+    "url": "/course/python-for-finance-and-trading-algorithms/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Jose Portilla",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/9685726_67e7_4.jpg?6qpCuGrXQZi8UQ7kTCJYebYhcKTa2t4_YJ9UaN5ZmdVjq_Ef89A-zRQAHfLOjglxea7tlzcqN_x4vXLscNZ-A64IzvANADhxyBIL0zv0ohy8W92FdPXYP895kYM",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/9685726_67e7_4.jpg?E5WeuVDFwLlttva37gH-KdMQoYGMCvaa209cRis-FFw_u7g9VP4BRa9n5ge2iYTfUwqbDW3YsUfDDRC8DTO5kEJRGYuCGuUJFqclHfzSdxEABSQm2QlJ6upzG7o2XQ",
+        "url": "/user/joseportilla/",
+        "job_title": "Head of Data Science, Pierian Data Inc.",
+        "title": "Jose Portilla",
+        "_class": "user",
+        "name": "Jose",
+        "id": 9685726,
+        "initials": "JP"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1212032_b7e8.jpg?6x1MVdUO2LAxus-3KagZw5uwy44xyFabfhoEJ685ZXIJhUIGeP9BnrvLC1WDL-ZfvrNWjntcsgzOV5t7PGh-PjDKcp4MFyAENrn6amXFZyMDUg38Axw8c_rz_JA",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/1212032_b7e8.jpg?secure=4WC2toVHa7yBESr15rc8EA%3D%3D%2C1607415138",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1212032_b7e8.jpg?MW7xmgPNDjUBfNIqCTb9MMawnQI9EPlh5L8LZ00vq9iaVjw5mppKX-XWdDC2yRtpchS51_rgxfJQCAcVfXCVYHFqk8Soc5jdHm5Yh1ZA4b8z7ddyFlhDmg3aYC0eMQ",
+    "published_title": "python-for-finance-and-trading-algorithms",
+    "tracking_id": "omBBqu-NRK-0kcGm_UFnNQ",
+    "headline": "Learn numpy , pandas , matplotlib , quantopian , finance , and more for algorithmic trading with Python!",
+    "num_subscribers": 95357,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "ro_RO",
+        "title": "Română",
+        "english_title": "Romanian"
+      },
+      {
+        "_class": "locale",
+        "locale": "ja_JP",
+        "title": "日本語",
+        "english_title": "Japanese"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      },
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      }
+    ],
+    "avg_rating": 4.55042,
+    "avg_rating_recent": 4.53756,
+    "rating": 4.53756,
+    "num_reviews": 14145,
+    "is_wishlisted": false,
+    "num_published_lectures": 120,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1212032_b7e8.jpg?nkpfryeAk7U70NeHtw9mw7twETquBG8yE6JkDGi8zJ2oz8EAUxpiYMfiElgtzN1bdLFjXH-qAkzl0Djor9s8odbj9gaQK96hE9bO0ve7f8QQlNyopZgV-vSrlHU",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1212032_b7e8.jpg?l-SKe-Zn4hem4UnhSTNFRmG_Tn05tox7PIeTNXa8_HsRAzDo5oOwyqmvnuNshRlYI3GQmLmakifLx65p6B725VNFo-NuBSm7Cw8UCQ3Nm9ZT1PrSGcXGtiwt44WYXA",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1212032_b7e8.jpg?0AHScWC9XLiB9d-Gh9Vn_eY6Xm7NNxutnP-gMFpdcb8P6ILKJ7eq-YgXEs5aTPv0cPkSbxxd9gqVDGYjScWGKcUxm5vOpD3Nedf92kTLsCubXzyWvsAg33oMODMhow",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1212032_b7e8.jpg?ZFYSPTQITMggA0Jz84tf9eUEkvJdqkcYxyFqW-fce2qz3ddg6MtRC79oLQpN8wynu4CpULr9re29hYjVMMXujvIYx3QHzHSl400RxPAdP2WMawHlJ52Ym5TO4h_qWg",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "english_title": "English (US)"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Japanese [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Romanian [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2017-05-11T01:30:31Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-07-28T22:27:02Z",
+    "objectives_summary": [
+      "Use NumPy to quickly work with Numerical Data",
+      "Use Pandas for Analyze and Visualize Data",
+      "Use Matplotlib to create custom plots"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-02",
+    "preview_url": "/course/1212032/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "16.5 total hours",
+    "content_info_short": "16.5 hours",
+    "bestseller_badge_content": {
+      "badge_text": "Bestseller",
+      "id": "a45068bfc7df4b65a9aeed936e3fbe3f",
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "id": 288,
+          "url": "/courses/development/",
+          "title": "Development",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Finance Fundamentals",
+          "topic_channel_url": "/topic/finance/",
+          "id": 5798,
+          "url": "/topic/finance/",
+          "title": "Finance Fundamentals",
+          "tracking_object_type": "cl"
+        }
+      },
+      "_class": "ds_course_badge"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "a45068bfc7df4b65a9aeed936e3fbe3f",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "id": 288,
+            "url": "/courses/development/",
+            "title": "Development",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Finance Fundamentals",
+            "topic_channel_url": "/topic/finance/",
+            "id": 5798,
+            "url": "/topic/finance/",
+            "title": "Finance Fundamentals",
+            "tracking_object_type": "cl"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Financial Trading",
+        "topic_channel_url": "/topic/financial-trading/",
+        "id": 5810,
+        "url": "/topic/financial-trading/",
+        "title": "Financial Trading",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 1035472,
+    "title": "Python for Finance: Investment Fundamentals & Data Analytics",
+    "url": "/course/python-for-finance-investment-fundamentals-data-analytics/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "365 Careers",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/8280056_7887_3.jpg?AyKSrIunE0RTAWo0N6uXD5r0qKEEYNLMwvupm3FKQywereJ7phCaEZfyTX32PgXhtyNQ8NnXlshRNKjrEJZmjrN02NiX2p75XLm1bhFoffIZzHP2rsbslLvcF1U",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/8280056_7887_3.jpg?OYrTEzQPbgnnBE9nBFqi9SAzhLCnOIS3Hse1KxRL7OSXtZrTj3hG-cKGUNTmjkeCQs3UVdgRJsyca4veXZigEkGFHI0ySNDizTrh5pK-mP12umH-sYTfOWySpdt8FA",
+        "url": "/user/365careers/",
+        "job_title": "Creating opportunities for Business & Finance students",
+        "title": "365 Careers",
+        "_class": "user",
+        "name": "365",
+        "id": 8280056,
+        "initials": "3C"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/1035472_23ce_5.jpg?8Ws_PU47FLr_SQBpwnbBQ9VSgCjfhWWDaGg6Rz7fQAM1MmdXAn47ierX-ISWGFy-PRmGm_XhpIhdXvpDjcF0DL1sLTJ7qDKGIPchICobq_YsxVc8buVBbnWkV2Z4zA",
+    "image_240x135": "https://img-b.udemycdn.com/course/240x135/1035472_23ce_5.jpg?secure=QXi1ZwHvvjDqHWwApCwiXQ%3D%3D%2C1607434277",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/1035472_23ce_5.jpg?RPEuCu6QjpDNqhupYl9x5X06zDjkgJfstujLaWeePSxmoP-D2enC3kR49kRq7MposIV3pFNQqyA6YURUlICsCuZWjde3hIba4s-aW-Rg2KGoYNWgNhiv-4Z7TEE2aaCW",
+    "published_title": "python-for-finance-investment-fundamentals-data-analytics",
+    "tracking_id": "9WzXRQWOSbqISgBUB4Vo5A",
+    "headline": "Learn Python Programming and Conduct Real-World Financial Analysis in Python - Complete Python Training",
+    "num_subscribers": 89644,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "fr_FR",
+        "title": "Français (France)",
+        "english_title": "French (France)"
+      },
+      {
+        "_class": "locale",
+        "locale": "it_IT",
+        "title": "Italiano",
+        "english_title": "Italian"
+      },
+      {
+        "_class": "locale",
+        "locale": "pl_PL",
+        "title": "Polski",
+        "english_title": "Polish"
+      },
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "id_ID",
+        "title": "Bahasa Indonesia",
+        "english_title": "Indonesian"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      },
+      {
+        "_class": "locale",
+        "locale": "de_DE",
+        "title": "Deutsch",
+        "english_title": "German"
+      }
+    ],
+    "avg_rating": 4.55291,
+    "avg_rating_recent": 4.55636,
+    "rating": 4.55636,
+    "num_reviews": 18991,
+    "is_wishlisted": false,
+    "num_published_lectures": 111,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/1035472_23ce_5.jpg?9k2iKNvDEIEO9bS507wG2Bo567RsYLxnGhOTSodwUhSqQNH_XnwX46cNIDIkd_poB3wxvROLZPiM0VZn3m2Ej195stmRFG4yb_YzVdXoIghDm2q01mBKapfEAoIBYA",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/1035472_23ce_5.jpg?0HIEKWe0akWj8Somx_-RMOJBIhhGPyWOZX8hKn5Zly0z9kItXKIpetwdwCraeQv8aAVSfK3ZY8Kdzuq1mV0ONdbfoU-wubW2ebw7qYkJgMb8KjQdeCJuoGcuYywXxJsA",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/1035472_23ce_5.jpg?RMfHA9Nyu0gmfYOc2dwpCQ03rr0KS647qkcbHJUgH53qGR-McEA9MzZeM5JGP-kPBatNtsozWcwvZ6AiixaGYEgOflglOYoyjnECOKtrAzor1WCOv5fl1-YyZEiLLRnJ",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/1035472_23ce_5.jpg?SkIEXBjmYkMTcI-Os2LYlbwpouFqT1guAOKh5FBTXdFc8XoVOPDiarWXk31AerJie17QOZD1et-5GL5iBLTjy2UdA2mROG19uyuf5InJIyVryEN8rH3hFfE2qfZqkxVL",
+    "locale": {
+      "english_title": "English (US)",
+      "locale": "en_US",
+      "_class": "locale",
+      "title": "English (US)",
+      "simple_english_title": "English"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]",
+      "French [Auto]",
+      "German [Auto]",
+      "Indonesian [Auto]",
+      "Italian [Auto]",
+      "Polish [Auto]",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-12-08T13:48:36Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2017-03-30T22:17:09Z",
+    "objectives_summary": [
+      "Learn how to code in Python",
+      "Take your career to the next level",
+      "Work with Python’s conditional statements, functions, sequences, and loops"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-06-24",
+    "preview_url": "/course/1035472/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "8.5 total hours",
+    "content_info_short": "8.5 hours",
+    "bestseller_badge_content": {
+      "badge_text": "Bestseller",
+      "_class": "ds_course_badge",
+      "badge_family": "bestseller",
+      "context_info": {
+        "category": {
+          "id": 328,
+          "url": "/courses/finance-and-accounting/",
+          "title": "Finance & Accounting",
+          "tracking_object_type": "cat"
+        },
+        "subcategory": null,
+        "label": {
+          "display_name": "Python",
+          "id": 7380,
+          "topic_channel_url": "/topic/python/",
+          "url": "/topic/python/",
+          "title": "Python",
+          "tracking_object_type": "cl"
+        }
+      },
+      "id": "94788b6cef2844dfbc7c07529bee1327"
+    },
+    "badges": [
+      {
+        "_class": "ds_course_badge",
+        "id": "94788b6cef2844dfbc7c07529bee1327",
+        "badge_text": "Bestseller",
+        "badge_family": "bestseller",
+        "context_info": {
+          "category": {
+            "id": 328,
+            "url": "/courses/finance-and-accounting/",
+            "title": "Finance & Accounting",
+            "tracking_object_type": "cat"
+          },
+          "subcategory": null,
+          "label": {
+            "display_name": "Python",
+            "id": 7380,
+            "topic_channel_url": "/topic/python/",
+            "url": "/topic/python/",
+            "title": "Python",
+            "tracking_object_type": "cl"
+          }
+        }
+      }
+    ],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 328,
+        "url": "/courses/finance-and-accounting/",
+        "title": "Finance & Accounting",
+        "tracking_object_type": "cat"
+      },
+      "subcategory": null,
+      "label": {
+        "display_name": "Python",
+        "id": 7380,
+        "topic_channel_url": "/topic/python/",
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      }
+    }
+  },
+  {
+    "_class": "course",
+    "id": 903378,
+    "title": "The Python Bible™ | Everything You Need to Program in Python",
+    "url": "/course/the-python-bible/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Ziyad Yehia",
+        "image_50x50": "https://img-b.udemycdn.com/user/50x50/10444866_d31e_7.jpg?secure=oJzxL_umKfXWqyaz8TgkKg%3D%3D%2C1607415137",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/10444866_d31e_7.jpg?dv0fJvyUdeKRSrrFyprFaJz4YKOnYTaevWeIqpZoTCnWnF61pp7lwsQ1An1gknaCbY5hcAELwG_aTew0mo6c716TbumgcoVKIBHup-4g_k4UoWuMSfmtI4ontbJgfTg",
+        "url": "/user/ziyadyehia2/",
+        "job_title": "Energetic Udemy Instructor with a Project-based Approach",
+        "title": "Ziyad Yehia",
+        "_class": "user",
+        "name": "Ziyad",
+        "id": 10444866,
+        "initials": "ZY"
+      },
+      {
+        "display_name": "Internet of Things Academy",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/102379883_7833.jpg?niFX-wlxkVlOBEGUxughY6ZPv2R5iJmWtakKaCdIxQtJ5ruoJTKMArRpTLWxXDQ9UBYrqghwe8TzcEYMgk_3RptseArPh50VwEnO0XyAMV7RiWYJtDFO7GYGFnI",
+        "image_100x100": "https://img-b.udemycdn.com/user/100x100/102379883_7833.jpg?secure=YNzVScWEVHAek7adb_fPfw%3D%3D%2C1607415137",
+        "url": "/user/internet-of-things-academy-2/",
+        "job_title": "Your Friendly Neighbourhood Online Education Company",
+        "title": "Internet of Things Academy",
+        "_class": "user",
+        "name": "Internet of Things",
+        "id": 102379883,
+        "initials": "IA"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/903378_f32d_7.jpg?X3nss8mmGrLiqWNOySR7ARDwHIJ3KGYWhuFnvKC-u8ZSNODcmQTi0rcabf2D4FCDb0Lhmh4fG5D2HBPONGCxPSs6FH8wFcmacEb1Cv9ZQDgtg5Z16p-7B9gKP8xd",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/903378_f32d_7.jpg?LtLMzS2ApTSP88NNdXlCqm8qvC0kc_HAj6kPCLbSDIEwpHXMvkhq65JBKWuYMDOJoqZF0Qc3I8zCOcjUaPF5jKF928JumP4Xsk10Qxv5MZc8pFVPwHgKn0-c1e0UNpg",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-a.udemycdn.com/course/480x270/903378_f32d_7.jpg?rLF2bPvX7GKxWCMchG5KduBcA798dqiCLFPIOODyTpZNBfv1PUwHLoJSWjdUAStD8u-40HsoU8HBhXztMN_Q1JINrjI4RgqKAnDhjga0rSvbWZVF0XkymBf6B-DGOW8",
+    "published_title": "the-python-bible",
+    "tracking_id": "fxrSoXJ8S56GhSF-B2VJnw",
+    "headline": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!",
+    "num_subscribers": 107618,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "pt_BR",
+        "title": "Português (Brasil)",
+        "english_title": "Portuguese (Brazil)"
+      },
+      {
+        "_class": "locale",
+        "locale": "es_ES",
+        "title": "Español (España)",
+        "english_title": "Spanish (Spain)"
+      },
+      {
+        "_class": "locale",
+        "locale": "en_GB",
+        "title": "English (UK)",
+        "english_title": "English (UK)"
+      }
+    ],
+    "avg_rating": 4.61703,
+    "avg_rating_recent": 4.63549,
+    "rating": 4.63549,
+    "num_reviews": 30551,
+    "is_wishlisted": false,
+    "num_published_lectures": 74,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/903378_f32d_7.jpg?kJnljtnzn8HiasZpyoYLFc0YYDP0Tiu1zfFcN_gckdxusCQBfoq0cB1M9-AAD0Zv6-SAjevyjpf0cnjEeCo2tchiYMn5Hnc7JoTga8hDmbIrUb7RTVGA81NmmnqF",
+    "image_100x100": "https://img-a.udemycdn.com/course/100x100/903378_f32d_7.jpg?1LdIQia9SyhBhsv1Vv2HlLBiOODHHkNptTmlI4-kViZ0eY5QE2iBfmuXYpRxJKzbNuKEW7J-bOC3uV6caaXK0qnz4GSm2kCWylpGsOFEa6kSwY08LKFEwM8hBkCj9ZU",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/903378_f32d_7.jpg?EoMO_8wDetNJ2LuKpOUZFnuqU_PWLTtz04Gj750GBzeJKp04UgtKZqYCczWu7PjTJ8ipSkoCwqrD1e9O6hgVSfbSk2oe9gAxOceb7sIu19EKFBBv4_lY9uk2Op8h5jI",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/903378_f32d_7.jpg?aRI_bdPJcryuulY6EiT330UnUFHX3hLrHkE8wbDOteJ5ICRwWBr9cluOQUI5FVPFJgKdZsJLQYu_LIYEHpenMSqRZx-uUughYgd1kLqWaz3Qf1iuBYIACnXkrjjebms",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_GB",
+      "simple_english_title": "English",
+      "title": "English (UK)",
+      "english_title": "English (UK)"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English",
+      "Portuguese [Auto]",
+      "Spanish [Auto]"
+    ],
+    "created": "2016-07-12T19:06:19Z",
+    "instructional_level": "Beginner Level",
+    "instructional_level_simple": "Beginner",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2016-08-18T21:59:26Z",
+    "objectives_summary": [
+      "Gain a Solid & Unforgettable Understanding of the Python Programming Language.",
+      "Gain the Python Skills Necessary to Learn In-Demand Topics, such as Data Science, Web Development, AI and more.",
+      "Build 11 Fun and Memorable Python Projects."
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-01-20",
+    "preview_url": "/course/903378/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "9 total hours",
+    "content_info_short": "9 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null
+    }
+  },
+  {
+    "_class": "course",
+    "id": 2473048,
+    "title": "Complete Python Developer in 2021: Zero to Mastery",
+    "url": "/course/complete-python-developer-zero-to-mastery/",
+    "is_paid": true,
+    "visible_instructors": [
+      {
+        "display_name": "Andrei Neagoie",
+        "image_50x50": "https://img-a.udemycdn.com/user/50x50/38516954_b11c_3.jpg?CBmb0zstUG2WWHec0ciZ2C7qphVqf7Skn1wNCI037ebxjkFOrabhZzwsZahFbEtDssynK4lKnCuBenLRotRqN3lQYF_e5xXDTckjN0uyCqrCsBjptPY4FQHslhU4",
+        "image_100x100": "https://img-a.udemycdn.com/user/100x100/38516954_b11c_3.jpg?n9tmX9MqoRNiaQtK9vmD-YMIyagNU8ofZwBjnW5f4i9JzYnI2y806INY7GKyNXVdlpTCDSApYXJyt0aYcNaxgpkb9YFTDqwW5HI88rShYkR-SzQ_-y1_QcQ4bORwnJg",
+        "url": "/user/andrei-neagoie/",
+        "job_title": "Senior Software Developer turned Instructor",
+        "title": "Andrei Neagoie",
+        "_class": "user",
+        "name": "Andrei",
+        "id": 38516954,
+        "initials": "AN"
+      }
+    ],
+    "image_125_H": "https://img-a.udemycdn.com/course/125_H/2473048_8255_5.jpg?8v-n6uTalgrYd-XmJZQtJPB-vMKlAtQKbcyLhD1PkvumVu_00Hok8UmEDlKNIXgwCvcIFW0lVP8CyjC7RVnwQlB2GEFXt4eSEY0U93Wtff-5RTcvslNiUrsm4FWWOw",
+    "image_240x135": "https://img-a.udemycdn.com/course/240x135/2473048_8255_5.jpg?WZThiWkM2mZbxTdBa8uxJgVTvk9DEAodbZuo6CUlfWu_2u2hWwpcseL_4Fe4__R9FHwdtKF33okIvQKXcRoSq7YF7GH8DhABNfVwtI8_GPw9c7hz_63EyZmmyBsPmw9J",
+    "is_practice_test_course": false,
+    "image_480x270": "https://img-b.udemycdn.com/course/480x270/2473048_8255_5.jpg?secure=JUWgGL-s-j32KTXMZK3__Q%3D%3D%2C1607415138",
+    "published_title": "complete-python-developer-zero-to-mastery",
+    "tracking_id": "clIiWnt0QUWuKFOGhRGDSQ",
+    "headline": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
+    "num_subscribers": 93612,
+    "caption_locales": [
+      {
+        "_class": "locale",
+        "locale": "en_US",
+        "title": "English (US)",
+        "english_title": "English (US)"
+      }
+    ],
+    "avg_rating": 4.66511,
+    "avg_rating_recent": 4.65999,
+    "rating": 4.65999,
+    "num_reviews": 22529,
+    "is_wishlisted": false,
+    "num_published_lectures": 327,
+    "num_published_practice_tests": 0,
+    "image_50x50": "https://img-a.udemycdn.com/course/50x50/2473048_8255_5.jpg?8C6Gr3mrPbq5V9RxVTYMBgrAFXXw1W0jap83n-Y4XAX_a-Lkl7W668czyKDiBYGfQcjY84jpocSygGYbl9tZ8hDlLgD80w5hcUu8IehNA8WgYWC2qcfNryMSFJ4EYg",
+    "image_100x100": "https://img-b.udemycdn.com/course/100x100/2473048_8255_5.jpg?secure=sTXe9ItiYPqlPg0s6rNZ1A%3D%3D%2C1607415138",
+    "image_304x171": "https://img-a.udemycdn.com/course/304x171/2473048_8255_5.jpg?0BNXxJTvVY0_wH5lOIwljRQNeEV6GVz45i2kBC17O83xn37OOBarttgccGu3B8jdquKT1aUTc6kEkv170Vt-KaLuZhQ9HD-DkijtrqkFfHniAI3ucNqeUMDDGDROgru2",
+    "image_750x422": "https://img-a.udemycdn.com/course/750x422/2473048_8255_5.jpg?ucvS94kQL5hYtOLP6taGfxvUqdpy4kJ2rBCUULgNXmEqwLTVDSIqQ1HjOkGgNuLXd2OJeFRl1UtRRnjGJfZS3DSdvx6v6IfWBePh3nAk4aRyQhC2ZNgxm-O5Wwsb3974",
+    "locale": {
+      "_class": "locale",
+      "locale": "en_US",
+      "simple_english_title": "English",
+      "title": "English (US)",
+      "english_title": "English (US)"
+    },
+    "has_closed_caption": true,
+    "caption_languages": [
+      "English [Auto]"
+    ],
+    "created": "2019-07-23T13:41:14Z",
+    "instructional_level": "All Levels",
+    "instructional_level_simple": "All Levels",
+    "content_length_practice_test_questions": 0,
+    "is_user_subscribed": false,
+    "buyable_object_type": "course",
+    "published_time": "2019-09-23T16:08:52Z",
+    "objectives_summary": [
+      "Become a professional Python Developer and get hired",
+      "Master modern Python 3.9(latest) fundamentals as well as advanced topics",
+      "Learn Object Oriented Programming"
+    ],
+    "is_recently_published": false,
+    "last_update_date": "2020-12-01",
+    "preview_url": "/course/2473048/preview/",
+    "predictive_score": null,
+    "relevancy_score": null,
+    "input_features": null,
+    "lecture_search_result": null,
+    "curriculum_lectures": [],
+    "order_in_results": null,
+    "curriculum_items": [],
+    "instructor_name": null,
+    "content_info": "30.5 total hours",
+    "content_info_short": "30.5 hours",
+    "bestseller_badge_content": null,
+    "badges": [],
+    "free_course_subscribe_url": null,
+    "context_info": {
+      "category": {
+        "id": 288,
+        "url": "/courses/development/",
+        "title": "Development",
+        "tracking_object_type": "cat"
+      },
+      "label": {
+        "display_name": "Python",
+        "topic_channel_url": "/topic/python/",
+        "id": 7380,
+        "url": "/topic/python/",
+        "title": "Python",
+        "tracking_object_type": "cl"
+      },
+      "subcategory": null
+    }
+  }
+]
