@@ -32,3 +32,50 @@
 .imgage-div img {
 	width: 100%;
 }
+
+@media (max-width: 768px) {
+	.flex-box-cont {
+		padding: 0 20px;
+	}
+	.detail {
+		max-width: 300px;
+		padding: 24px;
+	}
+	.detail h1 {
+		font-size: 30px;
+		font-weight: 600;
+	}
+	.detail p {
+		margin: 7px 0px;
+		font-size: 16px;
+	}
+	.imgage-div {
+		width: 350px;
+		margin: 0 -20px;
+	}
+	.imgage-div img {
+		width: 100%;
+	}
+}
+
+@media (max-width: 425px) {
+	.flex-box-cont {
+		padding: 0 20px;
+	}
+	.flex-box-cont {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		background-color: #d3d3d33d;
+		height: 300px;
+	}
+	.detail {
+		max-width: 300px;
+		padding: 24px;
+		margin: 0 auto;
+	}
+
+	.imgage-div {
+		display: none;
+	}
+}

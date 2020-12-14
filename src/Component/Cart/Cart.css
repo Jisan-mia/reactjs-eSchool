@@ -1,0 +1,77 @@
+.cart-title h3 {
+	text-align: center;
+}
+.course-pricing {
+	display: grid;
+	grid-template-columns: auto auto;
+	line-height: 1px;
+	text-align: center;
+}
+.btn-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+	height: 70px;
+	overflow: hidden;
+	position: absolute;
+	width: 92%;
+	box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.1);
+	padding: 0 11px;
+	margin: 19px 0 0 -9px;
+}
+.go-to-cart {
+	width: 100%;
+	border: none;
+	font-size: 16px;
+	padding: 15px 0;
+	cursor: pointer;
+	background-color: #006bff9e;
+	color: white;
+	outline: none;
+	border-radius: 2px;
+}
+
+.go-to-cart:hover {
+	background-color: #006affda;
+}
+
+@media (max-width: 320px) {
+	.cart-title h3 {
+		/* font-size: 22px; */
+	}
+	.course-pricing {
+		display: grid;
+		grid-template-columns: auto auto;
+		line-height: 1px;
+		text-align: center;
+	}
+	.btn-div {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: white;
+		height: 70px;
+		overflow: hidden;
+		position: absolute;
+		width: 92%;
+		box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.1);
+		padding: 0 11px;
+		margin: 15px 0 0 -9px;
+	}
+	.go-to-cart {
+		width: 100%;
+		border: none;
+		font-size: 16px;
+		padding: 10px 0;
+		cursor: pointer;
+		background-color: #006bff9e;
+		color: white;
+		outline: none;
+		border-radius: 2px;
+	}
+
+	.go-to-cart:hover {
+		background-color: #006affda;
+	}
+}

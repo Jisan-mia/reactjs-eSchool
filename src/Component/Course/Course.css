@@ -8,8 +8,11 @@
 .course-box:hover {
 	box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
 }
+.course-img {
+}
 .course-img img {
 	cursor: pointer;
+	width: 100%;
 }
 .course-title {
 	font-size: 16px;
@@ -61,4 +64,67 @@
 	background-color: #006bff9e;
 	color: white;
 	cursor: pointer;
+	outline: none;
+}
+.course-footer button:hover {
+	background-color: #006affde;
+}
+
+@media (max-width: 425px) {
+	.course-box {
+		width: 180px;
+		margin: 10px 0;
+		padding: 3px;
+		border-radius: 2px;
+	}
+	.course-box:hover {
+		box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
+	}
+	.course-img img {
+		cursor: pointer;
+	}
+	.course-title {
+		font-size: 14px;
+		font-weight: 500;
+		margin: 4px 0 2px;
+	}
+	.istructor-name {
+		color: #73726c;
+		font-size: 12px;
+		margin: 0 0 4px;
+	}
+	.rating {
+		display: none;
+	}
+
+	.content-info {
+		margin: 0 0 4px;
+		color: #73726c;
+		font-size: 12px;
+	}
+	.course-footer {
+		margin: 4px 0 5px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		flex-wrap: wrap;
+	}
+}
+
+@media (max-width: 320px) {
+	.course-box {
+		max-width: 150px;
+		width: 140px;
+		margin: 10px 0;
+		padding: 3px;
+		border-radius: 2px;
+	}
+	.content-info {
+		display: none;
+	}
+	.course-footer button {
+		padding: 4px 23px;
+		border-radius: 2px;
+		margin-top: 5px;
+	}
 }

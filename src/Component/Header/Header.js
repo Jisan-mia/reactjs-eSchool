@@ -1,8 +1,10 @@
 import React from "react";
-import cart from "../../images/cart.svg";
+import cartImg from "../../images/cart.svg";
 import logo from "../../images/logo2.png";
+import Cart from "../Cart/Cart";
 import "./Header.css";
-const Header = () => {
+const Header = (props) => {
+	const cart = props.cart;
 	return (
 		<div>
 			<div className="header-container">
@@ -12,25 +14,30 @@ const Header = () => {
 				<div className="nav">
 					<ul>
 						<li>
-							<a href="/home">Home</a>
+							<a href="#">Home</a>
 						</li>
 						<li>
-							<a href="/courses">Courses</a>
+							<a href="#">Courses</a>
 						</li>
-						<li>
-							<a className="cart" href="/cart">
+						<li className="cart-text">
+							<a className="cart" href="#">
 								Cart
 								<button>
-									<img className="cart-img" src={cart} alt="cart-img" />
-									<span className="cart-count">5</span>
+									<img className="cart-img" src={cartImg} alt="cart-img" />
+									<span className="cart-count"> {props.cartCount} </span>
 								</button>
 							</a>
+							<div className="cart-container">
+								<div className="cart-content">
+									<Cart cart={cart}></Cart>
+								</div>
+							</div>
 						</li>
 						<li>
-							<a href="/about">About</a>
+							<a href="#">About</a>
 						</li>
 						<li>
-							<a href="/login">Login</a>
+							<a href="#">Login</a>
 						</li>
 					</ul>
 				</div>

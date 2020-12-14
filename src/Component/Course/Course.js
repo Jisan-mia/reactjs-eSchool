@@ -3,6 +3,7 @@ import "./Course.css";
 const JSCourse = (props) => {
 	const {
 		title,
+		price,
 		image_240x135,
 		visible_instructors,
 		rating,
@@ -15,8 +16,7 @@ const JSCourse = (props) => {
 		return Math.floor(Math.random() * (max - min + 1)) + min;
 	};
 
-	const coursePrice = randomGenerator(110, 200);
-	const discountPrice = (coursePrice * 0.1).toFixed(2);
+	const discountPrice = (price + 100 * 0.99).toFixed(2);
 
 	return (
 		<div className="course-box">
@@ -39,9 +39,16 @@ const JSCourse = (props) => {
 					<p className="course-footer">
 						<small>
 							{" "}
-							${discountPrice} <del> ${coursePrice} </del>{" "}
+							${price} <del> ${discountPrice} </del>{" "}
 						</small>
-						<button>Enroll</button>
+						<button
+							className="enroll-btn"
+							onClick={() => {
+								props.handleEnrolButton(props.course);
+							}}
+						>
+							Enroll
+						</button>
 					</p>
 				</div>
 			</div>

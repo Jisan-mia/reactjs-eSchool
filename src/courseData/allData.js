@@ -1,6 +1,7 @@
 var javascript = [
 	{
 		_class: "course",
+		price: 19.99,
 		id: 851712,
 		title: "The Complete JavaScript Course 2020: From Zero to Expert!",
 		url: "/course/the-complete-javascript-course/",
@@ -203,6 +204,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 364426,
 		title: "JavaScript: Understanding the Weird Parts",
 		url: "/course/understand-javascript/",
@@ -373,6 +375,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 15.99,
 		id: 1463348,
 		title: "Modern JavaScript From The Beginning",
 		url: "/course/modern-javascript-from-the-beginning/",
@@ -515,6 +518,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 13.99,
 		id: 2508942,
 		title: "JavaScript - The Complete Guide 2020 (Beginner + Advanced)",
 		url: "/course/javascript-the-complete-guide-2020-beginner-advanced/",
@@ -641,6 +645,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 10.99,
 		id: 1470810,
 		title: "The Modern JavaScript Bootcamp",
 		url: "/course/modern-javascript/",
@@ -759,6 +764,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 9.99,
 		id: 1501104,
 		title: "JavaScript: The Advanced Concepts",
 		url: "/course/advanced-javascript-concepts/",
@@ -871,6 +877,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 21.99,
 		id: 861624,
 		title: "ES6 Javascript: The Complete Developer's Guide",
 		url: "/course/javascript-es6-tutorial/",
@@ -999,6 +1006,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 20.99,
 		id: 2782800,
 		title: "20 Web Projects With Vanilla JavaScript",
 		url: "/course/web-projects-with-vanilla-javascript/",
@@ -1111,6 +1119,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 18.99,
 		id: 670034,
 		title: "Advanced Javascript",
 		url: "/course/javascript-advanced/",
@@ -1229,6 +1238,7 @@ var javascript = [
 	},
 	{
 		_class: "course",
+		price: 16.99,
 		id: 2201164,
 		title: "Modern JavaScript (from Novice to Ninja)",
 		url: "/course/modern-javascript-from-novice-to-ninja/",
@@ -1343,6 +1353,7 @@ var javascript = [
 var python = [
 	{
 		_class: "course",
+		price: 14.99,
 		id: 567828,
 		title: "2020 Complete Python Bootcamp From Zero to Hero in Python",
 		url: "/course/complete-python-bootcamp/",
@@ -1545,6 +1556,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 950390,
 		title: "Machine Learning A-Z™: Hands-On Python & R In Data Science",
 		url: "/course/machinelearning/",
@@ -1782,6 +1794,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 9.99,
 		id: 903744,
 		title: "Python for Data Science and Machine Learning Bootcamp",
 		url: "/course/python-for-data-science-and-machine-learning-bootcamp/",
@@ -1945,6 +1958,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 629302,
 		title: "Learn Python Programming Masterclass",
 		url: "/course/python-the-complete-python-developer-course/",
@@ -2109,6 +2123,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 23.99,
 		id: 396876,
 		title: "Learning Python for Data Analysis and Visualization",
 		url: "/course/learning-python-for-data-analysis-and-visualization/",
@@ -2318,6 +2333,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 12.99,
 		id: 543600,
 		title: "Automate the Boring Stuff with Python Programming",
 		url: "/course/automate/",
@@ -2481,6 +2497,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 10.99,
 		id: 822444,
 		title: "Python and Django Full Stack Web Developer Bootcamp",
 		url: "/course/python-and-django-full-stack-web-developer-bootcamp/",
@@ -2711,6 +2728,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 14.99,
 		id: 1212032,
 		title: "Python for Financial Analysis and Algorithmic Trading",
 		url: "/course/python-for-finance-and-trading-algorithms/",
@@ -2934,6 +2952,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 15.99,
 		id: 1035472,
 		title: "Python for Finance: Investment Fundamentals & Data Analytics",
 		url: "/course/python-for-finance-investment-fundamentals-data-analytics/",
@@ -3144,6 +3163,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 12.99,
 		id: 903378,
 		title: "The Python Bible™ | Everything You Need to Program in Python",
 		url: "/course/the-python-bible/",
@@ -3282,6 +3302,7 @@ var python = [
 	},
 	{
 		_class: "course",
+		price: 20.99,
 		id: 2473048,
 		title: "Complete Python Developer in 2021: Zero to Mastery",
 		url: "/course/complete-python-developer-zero-to-mastery/",
@@ -3397,6 +3418,7 @@ var python = [
 var web = [
 	{
 		_class: "course",
+		price: 25.99,
 		id: 625204,
 		title: "The Web Developer Bootcamp 2020",
 		url: "/course/the-web-developer-bootcamp/",
@@ -3553,6 +3575,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 21.99,
 		id: 1565838,
 		title: "The Complete 2020 Web Development Bootcamp",
 		url: "/course/the-complete-web-development-bootcamp/",
@@ -3723,6 +3746,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 9.99,
 		id: 764164,
 		title: "The Complete Web Developer Course 2.0",
 		url: "/course/the-complete-web-developer-course-2/",
@@ -3900,6 +3924,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 16.99,
 		id: 1430746,
 		title: "The Complete Web Developer in 2021: Zero to Mastery",
 		url: "/course/the-complete-web-developer-zero-to-mastery/",
@@ -4035,6 +4060,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 12.99,
 		id: 1218586,
 		title: "The Advanced Web Developer Bootcamp",
 		url: "/course/the-advanced-web-developer-bootcamp/",
@@ -4219,6 +4245,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 18.99,
 		id: 446134,
 		title: "Ultimate Web Designer & Developer Course: Build 23 Projects!",
 		url: "/course/web-developer-course/",
@@ -4375,6 +4402,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 1650610,
 		title: "The Complete Junior to Senior Web Developer Roadmap (2021)",
 		url: "/course/the-complete-junior-to-senior-web-developer-roadmap/",
@@ -4493,6 +4521,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 13.99,
 		id: 818990,
 		title: "Git a Web Developer Job: Mastering the Modern Workflow",
 		url: "/course/git-a-web-developer-job-mastering-the-modern-workflow/",
@@ -4635,6 +4664,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 11475,
 		title: "Become a Certified Web Developer",
 		url: "/course/become-a-certified-web-developer/",
@@ -4762,6 +4792,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 22.99,
 		id: 11174,
 		title: "Become a Web Developer from Scratch",
 		url: "/course/how-to-become-a-web-developer-from-scratch/",
@@ -4874,6 +4905,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 28.99,
 		id: 548278,
 		title: "The Complete 2020 Web Development Course - Build 15 Projects",
 		url: "/course/complete-web-development-course/",
@@ -4986,6 +5018,7 @@ var web = [
 	},
 	{
 		_class: "course",
+		price: 21.99,
 		id: 369662,
 		title: "Running a Web Development Business: The Complete Guide",
 		url: "/course/the-complete-guide-to-running-a-web-development-business/",
@@ -5184,6 +5217,7 @@ var web = [
 var dataScience = [
 	{
 		_class: "course",
+		price: 23.99,
 		id: 950390,
 		title: "Machine Learning A-Z™: Hands-On Python & R In Data Science",
 		url: "/course/machinelearning/",
@@ -5421,6 +5455,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 27.99,
 		id: 903744,
 		title: "Python for Data Science and Machine Learning Bootcamp",
 		url: "/course/python-for-data-science-and-machine-learning-bootcamp/",
@@ -5584,6 +5619,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 29.99,
 		id: 1754098,
 		title: "The Data Science Course 2020: Complete Data Science Bootcamp",
 		url: "/course/the-data-science-course-complete-data-science-bootcamp/",
@@ -5807,6 +5843,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 25.99,
 		id: 765242,
 		title: "R Programming A-Z™: R For Data Science With Real Exercises!",
 		url: "/course/r-programming/",
@@ -6051,6 +6088,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 25.99,
 		id: 513244,
 		title: "Data Science A-Z™: Real-Life Data Science Exercises Included",
 		url: "/course/datascience/",
@@ -6221,6 +6259,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 9.99,
 		id: 671576,
 		title: "Machine Learning, Data Science and Deep Learning with Python",
 		url: "/course/data-science-and-machine-learning-with-python-hands-on/",
@@ -6370,6 +6409,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 15.99,
 		id: 1298780,
 		title: "Statistics for Data Science and Business Analysis",
 		url: "/course/statistics-for-data-science-and-business-analysis/",
@@ -6600,6 +6640,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 10.99,
 		id: 821726,
 		title: "Data Science and Machine Learning Bootcamp with R",
 		url: "/course/data-science-and-machine-learning-bootcamp-with-r/",
@@ -6777,6 +6818,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 13.99,
 		id: 913448,
 		title: "Python A-Z™: Python For Data Science With Real Exercises!",
 		url: "/course/python-coding/",
@@ -6909,6 +6951,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 13.99,
 		id: 860148,
 		title: "R Programming: Advanced Analytics In R For Data Science",
 		url: "/course/r-analytics/",
@@ -7093,6 +7136,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 713104,
 		title: "Data Science: Deep Learning in Python",
 		url: "/course/data-science-deep-learning-in-python/",
@@ -7221,6 +7265,7 @@ var dataScience = [
 	},
 	{
 		_class: "course",
+		price: 14.99,
 		id: 2511476,
 		title: "Complete Machine Learning & Data Science Bootcamp 2021",
 		url: "/course/complete-machine-learning-and-data-science-zero-to-mastery/",
@@ -7351,6 +7396,7 @@ var dataScience = [
 var aws = [
 	{
 		_class: "course",
+		price: 16.99,
 		id: 362328,
 		title: "AWS Certified Solutions Architect - Associate 2020",
 		url: "/course/aws-certified-solutions-architect-associate/",
@@ -7500,6 +7546,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 12.99,
 		id: 393306,
 		title: "AWS Certified Developer - Associate 2020",
 		url: "/course/aws-certified-developer-associate/",
@@ -7632,6 +7679,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 10.99,
 		id: 2196488,
 		title: "Ultimate AWS Certified Solutions Architect Associate 2020",
 		url: "/course/aws-certified-solutions-architect-associate-saa-c02/",
@@ -7836,6 +7884,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 1921420,
 		title: "Ultimate AWS Certified Developer Associate 2020 - NEW!",
 		url: "/course/aws-certified-developer-associate-dva-c01/",
@@ -8040,6 +8089,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 13.99,
 		id: 1047846,
 		title: "Amazon Web Services (AWS) Certified - 4 Certifications!",
 		url: "/course/aws-certified-associate-architect-developer-sysops-admin/",
@@ -8173,6 +8223,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 20.99,
 		id: 422702,
 		title: "AWS Certified SysOps Administrator - Associate 2020",
 		url: "/course/aws-certified-sysops-administrator-associate/",
@@ -8315,6 +8366,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 28.99,
 		id: 2051741,
 		title: "Ultimate AWS Certified SysOps Administrator Associate 2020",
 		url: "/course/ultimate-aws-certified-sysops-administrator-associate/",
@@ -8514,6 +8566,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 24.99,
 		id: 3142166,
 		title: "[NEW] Ultimate AWS Certified Cloud Practitioner - 2020",
 		url: "/course/aws-certified-cloud-practitioner-new/",
@@ -8674,6 +8727,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 23.99,
 		id: 2253706,
 		title: "AWS Certified Data Analytics Specialty - Hands On!",
 		url: "/course/aws-big-data/",
@@ -8899,6 +8953,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 29.99,
 		id: 2645936,
 		title: "[NEW] AWS Certified Cloud Practitioner Exam Training 2020",
 		url: "/course/aws-certified-cloud-practitioner-training-course/",
@@ -9074,6 +9129,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 10.99,
 		id: 2789348,
 		title: "Ultimate AWS Certified Solutions Architect Professional 2020",
 		url: "/course/aws-solutions-architect-professional/",
@@ -9237,6 +9293,7 @@ var aws = [
 	},
 	{
 		_class: "course",
+		price: 11.99,
 		id: 2533568,
 		title: "AWS Certified DevOps Engineer Professional 2020 - Hands On!",
 		url: "/course/aws-certified-devops-engineer-professional-hands-on/",
