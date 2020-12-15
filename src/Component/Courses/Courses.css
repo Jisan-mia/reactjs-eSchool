@@ -47,15 +47,15 @@
 @media (max-width: 320px) {
 	.course-main-div {
 		display: grid;
-		grid-template-columns: auto auto;
+		grid-template-columns: repeat(2, 50%);
 	}
 	.courses-div {
-		margin: 0 2px;
+		margin: 0 5px;
 	}
 	.main-title {
 		font-size: 25px;
 	}
 	.course-topic {
-		font-size: 18px;
+		font-size: 0.8em;
 	}
 }

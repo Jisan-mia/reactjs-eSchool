@@ -113,9 +113,9 @@
 
 @media (max-width: 320px) {
 	.course-box {
-		max-width: 150px;
-		width: 140px;
-		margin: 10px 0;
+		/* max-width: 95%; */
+		width: 92%;
+		margin: 10px auto;
 		padding: 3px;
 		border-radius: 2px;
 	}
@@ -127,4 +127,17 @@
 		border-radius: 2px;
 		margin-top: 5px;
 	}
+	.course-title {
+		font-size: 0.8em;
+	}
 }
+/* 
+@media (max-width: 300px){
+	.course-box {
+		max-width: 95%;
+		width: 140px;
+		margin: 10px auto;
+		padding: 3px;
+		border-radius: 2px;
+	}
+} */
